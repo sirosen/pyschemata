@@ -7,6 +7,5 @@ dist/
 .tox/
 
 /src/pyschemata/schemastore/catalog.json
-/src/pyschemata/schemastore/catalog.sha256
+/src/pyschemata/schemastore/index.json
 /src/pyschemata/schemastore/json/*.json
-/src/pyschemata/schemastore/json/*.sha256

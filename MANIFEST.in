@@ -1,1 +1,2 @@
 include src/schemashop/schemastore/json/*.json
+include src/schemashop/schemastore/*.json
