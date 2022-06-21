@@ -12,7 +12,7 @@ import requests
 
 PKG_PATH = pathlib.Path.cwd() / "src" / "pyschemata"
 VENDOR_SCHEMASTORE_DIR = PKG_PATH / "schemastore"
-VENDOR_SCHEMASTORE_JSON_DIR = VENDOR_SCHEMASTORE_DIR / "json"
+VENDOR_SCHEMASTORE_JSON_DIR = VENDOR_SCHEMASTORE_DIR / "jsondata"
 CATALOGFILE = VENDOR_SCHEMASTORE_DIR / "catalog.json"
 INDEXFILE = VENDOR_SCHEMASTORE_DIR / "index.json"
 VENDOR_LOCKFILE = VENDOR_SCHEMASTORE_DIR / "vendor_lock.json"
@@ -20,9 +20,8 @@ VENDOR_LOCKFILE = VENDOR_SCHEMASTORE_DIR / "vendor_lock.json"
 
 # TODO: also support `.versions` on the schema configs
 INDEX = {
-    "by_name": collections.defaultdict(list),
-    "by_description": collections.defaultdict(list),
-    "by_url": collections.defaultdict(list),
+    "by_name": {},
+    "by_url": {},
 }
 LOCKDATA: dict[str, str | list[dict[str, str]]] = {
     "schemas": [],
@@ -69,11 +68,11 @@ def handle_schema_info(schema_info):
     digest = download_schema(schema_id, schema_url)
 
     # add to the index
-    INDEX["by_url"][schema_url].append(schema_id)
+    assert schema_url not in INDEX["by_url"]
+    INDEX["by_url"][schema_url] = schema_id
     if "name" in schema_info:
-        INDEX["by_name"][schema_info["name"]].append(schema_id)
-    if "description" in schema_info:
-        INDEX["by_description"][schema_info["description"]].append(schema_id)
+        assert schema_info["name"] not in INDEX["by_name"]
+        INDEX["by_name"][schema_info["name"]] = schema_id
 
     # add to the lockfile data
     LOCKDATA["schemas"].append({"url": schema_url, "digest": digest})

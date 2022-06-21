@@ -1,12 +1,12 @@
 {
-  "catalog": "a77c0192fbd3b7326dc9f68ced57ebfa4a099d09ae76b47ae8f08de205ddd33e",
+  "catalog": "2ae5fd613d30c03556f5ef0cc06a10720f0d25d9b0f641c5233298c41d99e6b9",
   "schemas": [
     {
-      "digest": "8d81b3771a9f1b5f93b2b8c41305c61e0f864663c4d8bee0a5e26052a3aaade5",
+      "digest": "82a225ff61ded20c5e773d15d1b9b9cd16d20e84c9694553a1ef648519c1c971",
       "url": "https://json.schemastore.org/base.json"
     },
     {
-      "digest": "29dc3a6ecbfc071fafa455ae2d4e8bbc1ad8925981f2e8cf6d40697d6f64f608",
+      "digest": "7d5086127db5823f9a6f6a64ce7d9f178ef9ca1a2b2e2135894652cf9ab741a3",
       "url": "https://json.schemastore.org/anywork-ac-1.1.json"
     },
     {
@@ -14,19 +14,19 @@
       "url": "https://raw.githubusercontent.com/adonisjs/application/master/adonisrc.schema.json"
     },
     {
-      "digest": "ea5f6f42e74c635a871c9ec860b450679740c85665d98fc96f6dd7cf8c51ac69",
+      "digest": "33a4d1af6853a5c93fedaa6c8b44bece0b98e1eacebb8fdee1f9f120b2028656",
       "url": "https://json.schemastore.org/agripparc-1.4.json"
     },
     {
-      "digest": "3e437a516af19f34d16107962612834bba78deef4c8a947fbbd1ae6bc06c55eb",
+      "digest": "88f57003d7d0f8ee993666389aebfdc90ffd350a3b98f0f3ad4d873a75376d3f",
       "url": "https://json.schemastore.org/aiproj.json"
     },
     {
-      "digest": "6e536757e5fa2ca080b055f36bac9000b26134e5974e8156390855a9f517f101",
+      "digest": "4c91bbc553a2873dabf326c245a220bee6c56363dcab95388bd8b57ec44e5547",
       "url": "https://json.schemastore.org/airlock-microgateway-3.1.json"
     },
     {
-      "digest": "21fff011afc20a818134fe8ddb8c3a60c74b26ca12f5f34542ff316fcfdecc9e",
+      "digest": "2ce61c1c6f76ef79ea336389f634e77a5cb36491baaa10a6c0a5fb8e0b01c9bf",
       "url": "https://raw.githubusercontent.com/airplanedev/lib/main/pkg/deploy/taskdir/definitions/schema_0_3.json"
     },
     {
@@ -42,131 +42,139 @@
       "url": "https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible-ee.json"
     },
     {
-      "digest": "79fc40ecaaa7738017f7beeea656e6e2c6de67a8f3c475bc7c1431cb3b285b28",
+      "digest": "852f5d55756251eb36333b972c74600146be0400b700cf51844a8152090e51b1",
       "url": "https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible-meta.json"
     },
     {
-      "digest": "60393e12f662ffabe67ea8219479cc94638405680142f482132541853d0b412f",
+      "digest": "8ffbbcf414c43e89d53d15808168bc47dbcea5a9dfdca71db7c909caf08c1f05",
       "url": "https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible-meta-runtime.json"
     },
     {
-      "digest": "8d7734f6e2a2ba390709daac3fbf45537f61c20d9a8387293b25f7d3034b2acb",
+      "digest": "0372605844b10bb11dad37e3c3cbd5de745a03c1fdfbd91512f72465af02c474",
       "url": "https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible-requirements.json"
     },
     {
-      "digest": "bbf8190d172bb05ccb3779a01fb4854a2daae5d8001342c0986a3407c1ca50bf",
+      "digest": "d2ddbacf680064e2de4cc98673aff35028b9d13c5e7f85ccdd32775b3aaccc8e",
       "url": "https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible-vars.json"
     },
     {
-      "digest": "fea10747db6c6e88c636b03817f1668aaf51b5aeb5e4691d19d103b5d4d0d000",
-      "url": "https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible.json#/definitions/tasks"
+      "digest": "e50811e669327000d2a8e62e2d7d9b52c8b734f64103aed7fd56fbb17fa084b3",
+      "url": "https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible.json#/$defs/tasks"
     },
     {
-      "digest": "fea10747db6c6e88c636b03817f1668aaf51b5aeb5e4691d19d103b5d4d0d000",
-      "url": "https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible.json#/definitions/playbook"
+      "digest": "e50811e669327000d2a8e62e2d7d9b52c8b734f64103aed7fd56fbb17fa084b3",
+      "url": "https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible.json#/$defs/playbook"
     },
     {
-      "digest": "4696c3081d1ab7ca595f73b5886a9ccecea3f8fada52bad9cda55ad88afd20d7",
+      "digest": "de7b19b5a82623686cd85d50d1ad624530bec05e1fe2c303d2ebba3d1aae1417",
       "url": "https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible-inventory.json"
     },
     {
-      "digest": "07dcedfdd467bc4f91211d1a45a9f0a42b443bf3e6c6f493f25b10eabcc6bf11",
+      "digest": "af9ba9b58bb822cf0dd7c76d28d594e0f3353328715d670a70e9fc837c0bd5a6",
       "url": "https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible-galaxy.json"
     },
     {
-      "digest": "b6e6281d23b99cb4a4d9f4724f731ca9a01b6346804bd66eb4efd10bbc9486a4",
+      "digest": "c51eff294c2b759c24da7f3544cfb16e6ad7f9a4f9b4e225be6dd1c450127994",
       "url": "https://raw.githubusercontent.com/ansible-community/schemas/main/f/ansible-lint.json"
     },
     {
-      "digest": "a94b2e870877905425ba75f8e6e41581e9eb5e22487c416c55eeddc94481f0aa",
+      "digest": "f6156b8fef0af4c3898f63b7d1cdca2274ec86e37a3544f484d8c24d0d535033",
       "url": "https://raw.githubusercontent.com/ansible/ansible-navigator/main/src/ansible_navigator/data/ansible-navigator.json"
     },
     {
-      "digest": "64f7435b57947b3fe1f04a9d9363bab188df4c9c88e1b2e36b9a56a679cc0d44",
+      "digest": "b507c3ee749cebe48e9fb17abc780e25c6c504177957f9aa2ca57f76c669c4dd",
       "url": "https://json.schemastore.org/apple-app-site-association.json"
     },
     {
-      "digest": "4d8ae6d789094205575a0e8bf9c59dec0083c3eff5d2aef6d94a7f7779c8b16b",
+      "digest": "da1134a9d39e76b3da7e86f6b6b4b1e1ee6d1805d3f3bc893d9ad046caa7c280",
       "url": "https://appsemble.app/api.json#/components/schemas/AppDefinition"
     },
     {
-      "digest": "a695240db72ff142a7a13b53818c39a46cc66e2502cdfcb66a05248764df6ce1",
+      "digest": "c38edc84a4d623109560296b30fcf3d83897c11cc33ab55217fa397018a3b467",
       "url": "https://gitlab.com/appsemble/appsemble/-/raw/HEAD/packages/cli/assets/appsemblerc.schema.json"
     },
     {
-      "digest": "c413fbfe6541798b00a702d2f03e4c4985ce79a6163e482de247f2c1b80d3c99",
+      "digest": "50b6861bcc588be97469927bb3866fdda0ac1ace70048212e9240effd88d2582",
       "url": "https://json.schemastore.org/appsscript.json"
     },
     {
-      "digest": "b6f37f2fba88403d2e3afcf636482826515b84fb471045b34c51581ba530817b",
+      "digest": "0b43ef81b54cf33e78c93adb553b22a7ab3f0a6d939bd8709f965c69988dfecb",
       "url": "https://json.schemastore.org/appsettings.json"
     },
     {
-      "digest": "e088d0fdbedbc6d68d7a72b59d767329ec3de05010a3454389d0e2761765e6eb",
+      "digest": "12fd96c7e9f15c82e30cbb909a1db938961275d9e338b368fc01145de6146af7",
       "url": "https://json.schemastore.org/appveyor.json"
     },
     {
-      "digest": "92dc5d7ffa91edc34a7ec1e409493684f891e86d86c08d25008a6e15a73c299b",
-      "url": "https://raw.githubusercontent.com/architect-team/architect-cli/master/src/dependency-manager/schema/architect.schema.json"
+      "digest": "a8e10681b7d9475a85e9e46e2a5d6c309c9148023327f1f60100282a69d311fa",
+      "url": "https://raw.githubusercontent.com/architect-team/architect-cli/main/src/dependency-manager/schema/architect.schema.json"
     },
     {
       "digest": "a1c0f117c8402278a53c746ee82ec1f66d3f156e8ee3971c722f750909b3dc2a",
       "url": "https://raw.githubusercontent.com/architect/parser/v2.3.0/arc-schema.json"
     },
     {
-      "digest": "281b4e2d18266f33d20f8ff5421c2219883091017d155cff6bde54486db68e39",
+      "digest": "9db541fe10d94f6c4f2039c91cfd522b09e1981b5a7233e2f774d8a86364113e",
       "url": "https://raw.githubusercontent.com/argoproj/argo-workflows/master/api/jsonschema/schema.json"
     },
     {
-      "digest": "ab423a648c185048adf9033a63f8bb833539010a8560735d127ba0019b2abc45",
+      "digest": "d37bcbd32a4ab500962c88a27ed0b4c0a6ee9246ff8c189f0576793b6fce2925",
       "url": "https://json.schemastore.org/artifacthub-repo.json"
     },
     {
-      "digest": "13ae83cba21b5c6bb6e625c537fda6f2a52418992552542b9b1a5ef9a819b2ca",
+      "digest": "b515bfce7e023be6f60f13f1a2411fa8a913f6660d7da45abd56a7ae2439f915",
+      "url": "https://json.schemastore.org/asconfig-schema.json"
+    },
+    {
+      "digest": "5b0ffdacccdc7f29b98a31b48dfc5e1e80da49d486fec7f1d7486cf4f94017db",
+      "url": "https://raw.githubusercontent.com/asyncapi/spec-json-schemas/master/schemas/2.4.0.json"
+    },
+    {
+      "digest": "e7fda77f3fe8e399c0318e631b82faeebc3541e0a7c6e181f1728ddf3e375dfa",
       "url": "https://json.schemastore.org/avro-avsc.json"
     },
     {
-      "digest": "7a21a69d8719ef1ea5becd2819cf849c14eb2ad52ff54c083e495fac5fd46d21",
+      "digest": "a4f8301507f095e3e042642c8158258e17df5af3a3206357d4c2de0bd4b1eb5a",
       "url": "https://json.schemastore.org/azure-deviceupdate-import-manifest-4.0.json"
     },
     {
-      "digest": "b1c2db10949d0313a75b518bee78d8355807c261d68cb1693923753e7fa8b92f",
+      "digest": "b24e67839a6c824c4e6270c127addb0a7741bad68757931698e2f8ea614c82a7",
       "url": "https://json.schemastore.org/azure-deviceupdate-update-manifest-4.json"
     },
     {
-      "digest": "69df0c4afdebab72a679389b68686f1746bd11b534a757d2b09a5946586b091d",
+      "digest": "0c407e77f03501c0fb04bec69d0e018208980a337e451e1033e719bfb27e07fe",
       "url": "https://json.schemastore.org/azure-iot-edgeagent-deployment-1.1.json"
     },
     {
-      "digest": "821decfe43d8215a21a385ec8ddee3f4599f84b53862cd761725a1d8de067199",
+      "digest": "dec30d499590896488f1515045c23f2811406fedf8f8614689b3d5661e5bbf94",
       "url": "https://json.schemastore.org/azure-iot-edgehub-deployment-1.2.json"
     },
     {
-      "digest": "c0564a2ef5d3e5ecd10e98f5f8ef725e6a784da5193804e36945c3636cbf5cbe",
+      "digest": "92ded91b37c6bd3d68a870f626d88eaaa8fddfccce065244f441ab0b3ac90c31",
       "url": "https://json.schemastore.org/azure-iot-edge-deployment-2.0.json"
     },
     {
-      "digest": "d3c7b3e2cb17af59bdd6d9df96cf63044f5a6bd59ae0be22b5a15e35277cf36f",
+      "digest": "acd01f13955688b305c5a67be527860d5d9c4ddb624c2ff1ee9aee1b1e2a61e7",
       "url": "https://json.schemastore.org/azure-iot-edge-deployment-template-4.0.json"
     },
     {
-      "digest": "e3a1ca89fd7440fd5288ff0d583f47958fb49082fdeabfdef5a47587abd1738b",
+      "digest": "c7a919384eb0ee9b0733acfcda24c2937066cbf3f46791341bcfbb52c5435927",
       "url": "https://raw.githubusercontent.com/microsoft/azure-pipelines-vscode/master/service-schema.json"
     },
     {
-      "digest": "31d7bacfcc3d5d915d9280a25b96f46451bbc0eed8f46058594cc8bbca1ca18a",
+      "digest": "2e16fda3f19084209f5b236c9ea052cbdd7c3ed1cfdcd5f9768468c036b2ef82",
       "url": "https://json.schemastore.org/foxx-manifest.json"
     },
     {
-      "digest": "5a838d0c583c875938010e61a03008ec98f232957d819a25e738ddb287570935",
+      "digest": "ad41986db9f30c96a3a0b7fddc57c17b350b113660039da6abd0d8b5bba0855e",
       "url": "https://json.schemastore.org/asmdef.json"
     },
     {
-      "digest": "cbcb451e787a06570f7eb2ceab9aa5372c5afb6444a7e63a66ed8148bf8648a1",
+      "digest": "7d6456790ce447792f3ddc675bef232bdfffb9896bcfbb573012343444302cb5",
       "url": "https://json.schemastore.org/babelrc.json"
     },
     {
-      "digest": "e969f5dd8cd4d2967b209acaf59e56f471c7e57203d4eef0be4414560bd23073",
+      "digest": "a89a6f7ebc05e1fb9d53988c5174c68c6b0b3234e0b9d1ed41e610ab1fbe35a9",
       "url": "https://json.schemastore.org/backportrc.json"
     },
     {
@@ -174,7 +182,7 @@
       "url": "https://ide-integration.batect.dev/v1/configSchema.json"
     },
     {
-      "digest": "c1298dd0a9d4c297c469d1090089aeea25ebe75fef1f4471464262aac1e13e1f",
+      "digest": "850da479716fc525fab4519621f95227bcd929b0278da50bc085220a90658060",
       "url": "https://json.schemastore.org/bamboo-spec.json"
     },
     {
@@ -186,7 +194,7 @@
       "url": "https://raw.githubusercontent.com/Avanade/Beef/master/tools/Beef.CodeGen.Core/Schema/entity.beef.json"
     },
     {
-      "digest": "5cdffdc6f3d0e3f7a3791b7a9ac360e77c61488d995c24fb1a130de11c1d032d",
+      "digest": "7dddb815c93bb753e5ac9dc1e7947b8ced08c1ae97a1dff12f2eea133e2bfb33",
       "url": "https://json.schemastore.org/bigquery-table.json"
     },
     {
@@ -194,39 +202,39 @@
       "url": "https://bitbucket.org/atlassianlabs/atlascode/raw/main/resources/schemas/pipelines-schema.json"
     },
     {
-      "digest": "dd31ca5c06f99c609569868d72bb710eaada50ad07b4ccca315fc695adca3524",
+      "digest": "f1a89d64126b9198cc7f24b0e7f89b820b368e36deec052b8e390c1b9f1327e6",
       "url": "https://json.schemastore.org/bitrise.json"
     },
     {
-      "digest": "1b864769844a294856e23dfb13571d461cbbca3b58ec5dd6b21028a10b896f07",
+      "digest": "6f80ae820c9d633bf01302415c8d93e49efda537b4d81b72c198ba8c3bbbd09e",
       "url": "https://json.schemastore.org/bitrise-step.json"
     },
     {
-      "digest": "12411a91b32b150621c3652f664bd4453f7eb51f170941d125f321449c9e46af",
+      "digest": "d3ed6856d8463bf7160799bb1dbdcb4a105a371073f07869ec4a4bad37f4eb13",
       "url": "https://json.schemastore.org/bootstraprc.json"
     },
     {
-      "digest": "15c9ac0b94208fb7399c9665d2a62490fb50c5498d615cae9557cd26e9a93150",
+      "digest": "f41959f8e15c38e21c1299844afad41ff45621223c5c7292cec2364e0903d6b6",
       "url": "https://json.schemastore.org/bower.json"
     },
     {
-      "digest": "e0a7111b96da37965d55ce03c321f8d9cdb42656e6cb644687fcdbbe85542140",
+      "digest": "44860ff6b9180e14546315a0ca59a0b033f4af4d1b332049295f085a18624a54",
       "url": "https://json.schemastore.org/bowerrc.json"
     },
     {
-      "digest": "725ba2898b5ac9765416bce4303904e4d3a1506d813970b3142e3aa2d7e341ae",
+      "digest": "25a4d3c394871ed0952a77f1a015162fd026d78548eb3a4ae24b6c666f4cf68c",
       "url": "https://json.schemastore.org/behat.json"
     },
     {
-      "digest": "703c081dd0bef6f93ab9f1980382712b0319b53df68e5abddf9650b376e6116d",
+      "digest": "0ed7948ef8501091f8939b486d6d6cee5e1cec407205569d1e4a63b57e3ecbe9",
       "url": "https://json.schemastore.org/bozr.json"
     },
     {
-      "digest": "6e756f54aab09300ae6b13fc1c088b2ad0ca37b4015eb93baecf1de1e62a3b53",
+      "digest": "2fe384f308b4cc36be83075bb55634b11cdab1d4b329e9ad9fd837c0240ba60f",
       "url": "https://json.schemastore.org/browser.i18n.json"
     },
     {
-      "digest": "260546739dd1bcab40c96bcf9def75acde24983d93ab4124ef207106524e20a7",
+      "digest": "3a5eec99a2f0e2f480c2c274236326a76e0d5d8a40b7660cf4b6ff78b8f07fb5",
       "url": "https://raw.githubusercontent.com/rescript-lang/rescript-compiler/master/docs/docson/build-schema.json"
     },
     {
@@ -234,31 +242,31 @@
       "url": "https://raw.githubusercontent.com/jfrog/build-info-go/main/buildinfo-schema.json"
     },
     {
-      "digest": "0906c9c45b609fb430d572732098513b205ceca9f1b856b40eae54feb8e0d3c6",
+      "digest": "d47db8b4548b1dacf0994b8da2bb97c76efa95abcbf925a62f1de904ecdb034b",
       "url": "https://json.schemastore.org/bukkit-plugin.json"
     },
     {
-      "digest": "3adfda20d4cfbd7f75a8d3b854d19c71d063159e2946b1721616d7a5288eb8a9",
+      "digest": "3ea420df29623e22286c389b861383949df2319848e8317858af0d5ad962cff6",
       "url": "https://raw.githubusercontent.com/buildkite/pipeline-schema/main/schema.json"
     },
     {
-      "digest": "301553a932bd6d87ffa9e8d83608b104081b399d50a857ec6d2acf0d06b39428",
+      "digest": "26974c7ff4a4ab551e088df7bf9774a978236989ce93769ff934bb72b2136d67",
       "url": "https://json.schemastore.org/sourcehut-build-0.65.0.json"
     },
     {
-      "digest": "70b596c733a078e26c5b9e9f679a63adf118bdf60e885db42488216fa1857776",
+      "digest": "6f3eedc89177bdbab1aa118536bc6ec388d309d7ff7d076fd22eafe7206c6cfa",
       "url": "https://json.schemastore.org/bundleconfig.json"
     },
     {
-      "digest": "1ac1bfa23dc3e029652fe3fa2aa15451955457c21a86e26b1994c604e64d5c28",
+      "digest": "42adfa82bdd5277534deb91e8e6edec6db5b66f7b7e8e7bab688fd037e46b708",
       "url": "https://json.schemastore.org/bungee-plugin.json"
     },
     {
-      "digest": "2d0344142ccacb27b013c24339de233cd9d0bf26eeb1516c3c71e09b1a23abbd",
+      "digest": "e0afb24811f3b704c47f7ffb6aaad9feb422333aa08ce9ab2f33a24a3d7f8a39",
       "url": "https://schemas.wp.org/trunk/block.json"
     },
     {
-      "digest": "e39b8dc5b7ebf111924f7cda6365280e407a84217cfc714dc4ad4ee9244375f3",
+      "digest": "17d6cfd3d79f9bc7e267c701e03393850ed5a88dae689d93a0c2839536955335",
       "url": "https://blockprotocol.org/schemas/block-metadata.json"
     },
     {
@@ -266,7 +274,11 @@
       "url": "https://raw.githubusercontent.com/Kitware/CMake/master/Help/manual/presets/schema.json"
     },
     {
-      "digest": "1ad13e4d22560a1a0abb49948a339d58b7fed8b90392675aa395f574b4e758b5",
+      "digest": "69de62ef33d28079a70a9af62bbea85c47923f6188b4bf72b4cfdb2c1e05917a",
+      "url": "https://raw.githubusercontent.com/qualisys/qualisys-schemas/master/calqulus-pipeline.schema.json"
+    },
+    {
+      "digest": "fb37c98462026eead40c55026c24a9862238397fe7fcb8591a0f6d14fedb75f7",
       "url": "https://raw.githubusercontent.com/apache/camel/main/dsl/camel-yaml-dsl/camel-yaml-dsl/src/generated/resources/camel-yaml-dsl.json"
     },
     {
@@ -274,7 +286,7 @@
       "url": "https://carafe.fm/schema/draft-02/bundle.schema.json"
     },
     {
-      "digest": "ecdf7c4f60e36bc1ace0e60bbcd676ac30c5ad4c45859e82373b30c052ea0b9e",
+      "digest": "29adc128547b199c2e4ab7325bf2da2cd61644dd541b0df430713288dd719294",
       "url": "https://json.schemastore.org/catalog-info.json"
     },
     {
@@ -282,55 +294,67 @@
       "url": "https://raw.githubusercontent.com/cityjson/specs/master/schemas/cityjson.min.schema.json"
     },
     {
-      "digest": "a653e92fe0f4662db1d3a51d5c8fd75a66c38d6b8d1bea6a911810ec1908f126",
+      "digest": "7b257b5c57c877cfe619c26e048f32391bd96f09f80db7b2880263fdadf5e68b",
+      "url": "https://raw.githubusercontent.com/Ortus-Solutions/vscode-commandbox/master/resources/schemas/box.schema.json"
+    },
+    {
+      "digest": "77498f6bedcdcfa4cddf1adfc32e5c017305b43da70e45e3385230a232a908c1",
+      "url": "https://raw.githubusercontent.com/Ortus-Solutions/vscode-commandbox/master/resources/schemas/server.schema.json"
+    },
+    {
+      "digest": "c1d1a0a569a8e44002a1708688db7343cfd3c8143c50f2d36f5e5bf219e34e82",
       "url": "https://json.schemastore.org/csr.json"
     },
     {
-      "digest": "0106eeb345302f91a20a6fd6c91626db16701ab71a86c373d1e9d750d8fbae32",
+      "digest": "8337b72e2b324314083082fba5c33c038d3d54e838247714f122c2479021b1e5",
       "url": "https://json.schemastore.org/chart.json"
     },
     {
-      "digest": "d5aad67ce057b6ba4483a342915b94d4521552728e9c3a960f8cefe9deec5cf5",
+      "digest": "f0907edf5e6b6765949d9f45d4c1d006eed78791797c25b9f16a0fd3e1643bf0",
       "url": "https://json.schemastore.org/chart-lock.json"
     },
     {
-      "digest": "78401d23c9e19ca8c42eeb4395714019568a0db7526bfacd793891608f5e2fe2",
+      "digest": "177e19c079aea3f8f931d611ce3ae8c43b265cf784696686f7d5cb1dda0335cf",
       "url": "https://json.schemastore.org/circleciconfig.json"
     },
     {
-      "digest": "f5b5735175233911c3b9fcabaf5ae6088fbac94f9def379914b37766d4b7d6ce",
+      "digest": "de757b3c6d72623e1a52194ac1d9c97d9b12d507e1a810045b96ecd67661956f",
       "url": "https://json.schemastore.org/codeclimate.json"
     },
     {
-      "digest": "db5a09abbdc74b75c4d9dbd982199f1a578dddc47ff31f24d96b1cbed18606b5",
+      "digest": "e9bf13827546b3c8753ec61b6901105d83466f45e15bf65393b8e2a412b7fd30",
       "url": "https://json.schemastore.org/cirrus.json"
     },
     {
-      "digest": "0c6341519dca4c5ed4f2463201df3fa0276e2fe8b4c3f6ef6db1180708608900",
+      "digest": "e07ffdf12361122c1a9a615f619ecbb15b7fbf3e830782729a4420457e45de43",
       "url": "https://json.schemastore.org/clasp.json"
     },
     {
-      "digest": "84395ba2f43c4842fa31a0d92ce63b64977279971cc657041d773da7697b2fde",
+      "digest": "9be223274a47c9f5b79b5f4220de6bd1f372a84a831810c15a1d86f58fb7b06a",
       "url": "https://json.schemastore.org/cloudify.json"
     },
     {
-      "digest": "9517a92224e70293f53951e152c80fa683b8639038942847c052f77313469a3f",
+      "digest": "70747c849d42a65c5ec44c9bc21066058481518384feb0118f1eaf93f40eda0a",
+      "url": "https://raw.githubusercontent.com/canonical/cloud-init/main/cloudinit/config/schemas/versions.schema.cloud-config.json"
+    },
+    {
+      "digest": "dca316f86378b4e7a7064802b1a81f371739938e29f46a097b3293944d4c5629",
       "url": "https://static.codemagic.io/codemagic-schema.json"
     },
     {
-      "digest": "b3225b530e8da295360b4d06bf27212e685b5acb7866287d27ed2d4fd7e3b0ea",
+      "digest": "3dc16f64f42c503023b0002709faae541d9e33cf9f08e61e80868dd6edb89930",
       "url": "https://json.schemastore.org/codecov.json"
     },
     {
-      "digest": "5cd496875a4498f3a8e4f9a4b781f110d531c809a3619846b8de566f56359e41",
+      "digest": "fcd7c725dffc132e2a3481e54d49bf238ed6075745885cd9c6ee994f8fefdaea",
       "url": "https://json.schemastore.org/codeship-services.json"
     },
     {
-      "digest": "d2a8ffd865b9f2b031cd582cd3d1ab844d71e75510f5bfb0b0aec76e2d0e1938",
+      "digest": "0d0ab5f47cca27d808ee92a8f9a9f248a38b0b3c922f84325e35d738b7eaa61a",
       "url": "https://json.schemastore.org/codeship-steps.json"
     },
     {
-      "digest": "ca77110a4f8a01d61337202392e8dbc4b66fc916e21b2b4ade41b6e55aba7a18",
+      "digest": "568c53659f8abe8a5b82ed82feddab274c8546afda26de41368517c19919b69c",
       "url": "https://openapi.vercel.sh/vercel.json"
     },
     {
@@ -338,55 +362,55 @@
       "url": "https://raw.githubusercontent.com/Yash-Singh1/vscode-snippets-json-schema/main/schema.json"
     },
     {
-      "digest": "b1476815f5d5f7c20abe285d92938c48ca2906ae96893ad1460bdb66870a0064",
+      "digest": "0860a0b3033449d8ed4550f44060b12b028da77e4752fadb9e6b556ac109ce33",
       "url": "https://json.schemastore.org/compilerconfig.json"
     },
     {
-      "digest": "ef035f1f917495440a44e995dd74576c0f0ae15b21e31a5438d1219915808a63",
+      "digest": "cb2bf86d6e999ded728e1f6f2d1c7a45ec4bbd6c2b9557c6329ebe85c65382fe",
       "url": "https://json.schemastore.org/compile-commands.json"
     },
     {
-      "digest": "7852dfbdedbf3c1984a9360b6bd21be1b39620d22bb5a44ef01791abe3be60c9",
+      "digest": "83a3365ad9994b32379bb959d443420578d5484ab8dc120492c53f10db70521b",
       "url": "https://json.schemastore.org/commands.json"
     },
     {
-      "digest": "5e4d1635ab5bde11e6c75b3737ed4d17b35ae1c3e5efccb0514c3db3ec743b19",
+      "digest": "9dd49a121fdfcc582fd8bfcf8dc7a14504442d016c8d32858999a65984879520",
       "url": "https://json.schemastore.org/cosmos-config.json"
     },
     {
-      "digest": "54511fe269182ff57a074dca8d2eb822baca19f8c23b45a6e47795fd5323c9ff",
+      "digest": "f5e0433c1035e13af7e22c648544fee122847ca0dcf33e297e1def576dca4c17",
       "url": "https://json.schemastore.org/chrome-manifest.json"
     },
     {
-      "digest": "7478c98216ec54f01e70934691616d681c2747edec76aaa931f649b9d04a32bf",
+      "digest": "0ac1d592fc2f3abbae0f228bf061f8f1e8787e2387a00939bc682d2b9c15776b",
       "url": "https://json.schemastore.org/chutzpah.json"
     },
     {
-      "digest": "92da383c6b751a140a7ab0164d02ec9c47fec988129cbb58e8a2b617b9813773",
+      "digest": "88d728f0495bb3baf88bdd41fc37b55e8d7bad94bcead412ed049e7ec94d6b42",
       "url": "https://json.schemastore.org/vsix-manifestinjection.json"
     },
     {
-      "digest": "96670f6bc4f4fbe60bbd03052bb3623d02a24222099f15ab3d0ed1dc55aad9a1",
+      "digest": "6a666e38c18a99213cc789c0f31328e1d4cf6da1567382eedd72f75f20fc8b26",
       "url": "https://json.schemastore.org/cloud-sdk-pipeline-config-schema.json"
     },
     {
-      "digest": "5f086e7dae56e67ec47506e2b447fcc8f354a4b8f6200c6195ed19a1fd27030d",
+      "digest": "490773fb52402cc2e49e30a3975dfd04d3ea56a2483dfcd8cc11158b47e686c6",
       "url": "https://json.schemastore.org/cloudbuild.json"
     },
     {
-      "digest": "3b769249b4d131eaabfe059dc996e4cdd8dca4ea8b4715d4ffa24a4d895626cc",
+      "digest": "6e5971066cd4ce90864f9aa84156681dc8210038da39878370c78dbfa5c516f1",
       "url": "https://json.schemastore.org/workflows.json"
     },
     {
-      "digest": "377509149b0d09c79cc4bbd81aece76b58b032627385ae52cf20a7a2a19e28b2",
+      "digest": "d38314633148ae5d5fcb0719ca069862e36e614993937c17a815a8cdf0fdf424",
       "url": "https://json.schemastore.org/cdk.json"
     },
     {
-      "digest": "8f67517d0743fc5c5d0d7b2270292ed57c57c8e003fdf729eaf376d6db01f341",
+      "digest": "ea974e4cdc2736d971f75e5aac8ea3c96c3a69288a2b8f4f3f1cc819a82ce39e",
       "url": "https://raw.githubusercontent.com/awslabs/goformation/master/schema/cloudformation.schema.json"
     },
     {
-      "digest": "f95931fd2ff0aa0d32316647292bb338170efd91135b814017a010dbc530b4a7",
+      "digest": "608d264edfe83da98cb087b891a297033e6ff732fa35a7d50098f522c05c1e36",
       "url": "https://raw.githubusercontent.com/awslabs/goformation/master/schema/sam.schema.json"
     },
     {
@@ -394,19 +418,19 @@
       "url": "https://citation-file-format.github.io/1.2.0/schema.json"
     },
     {
-      "digest": "3da0a50d9b36bdac8148eee65926f6bbf17cd409cd47bb7b4271a38e43abbd2e",
+      "digest": "8505fc679100b09eea35f08fe92cb73c7e5b218c8af933925a5b61eb1bbfc242",
       "url": "https://json.schemastore.org/coffeelint.json"
     },
     {
-      "digest": "59cdf21bafd06a501e0ff86eeb6f246a7b2218201fa920a0e4f5f331b01e4111",
+      "digest": "31d67e6f23bd7a3b86995e495e779360a63cbe08ef101e5a46852939b47df824",
       "url": "https://raw.githubusercontent.com/composer/composer/main/res/composer-schema.json"
     },
     {
-      "digest": "29dd0981d84f38f56bbefff8910f407d23089d0098c5956204408f699763bb6d",
+      "digest": "727a6ea34a6954b5b919bcae9a9ff62b667cc80329df41b6f52606b3623966bd",
       "url": "https://json.schemastore.org/component.json"
     },
     {
-      "digest": "f5d8597d188bb98abfa573a01bd5d980d8fc76cddec270bebee387f3836600ba",
+      "digest": "7b79679baf5a1db76e8b6622b038e4fdd35ca131882b64d33cda29a43c788fa3",
       "url": "https://json.schemastore.org/config.json"
     },
     {
@@ -414,7 +438,7 @@
       "url": "https://raw.githubusercontent.com/mozilla/contribute.json/master/schema.json"
     },
     {
-      "digest": "0d010a2d68d7bb2c6e408fd3c2b48d8d231bf1fe286133dd293c4ecb227ad071",
+      "digest": "bcd71ca2cd72a80a4965926241eaf571106588be9a4492552e2776d3e28c7935",
       "url": "https://json.schemastore.org/crowdin.json"
     },
     {
@@ -422,39 +446,39 @@
       "url": "https://on.cypress.io/cypress.schema.json"
     },
     {
-      "digest": "79484f0958357335847612b9be9f4248f0ef08cc7afcdce3f46e33d1da33ec2d",
+      "digest": "212a4181184a41da9ce5e43a99d71a239400e8972514cf0e950b5e8a67ce623e",
       "url": "https://json.schemastore.org/creatomic.json"
     },
     {
-      "digest": "fe7185b600671f3d27ce980d7a48775ccf98aec75da96b8931640cd100b51edb",
+      "digest": "5a6330150715700991548f72b679ef3dd7696fea0e8af442a7102e7aee0bcc59",
       "url": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/packages/cspell-types/cspell.schema.json"
     },
     {
-      "digest": "00df3a74ed1c1ea22e8bfaf71a9eb9ba5741a79a68fadfb445c3d4ce78a4262d",
+      "digest": "4e6fa8b1d9615ddc5740f7b5eb407dda8f2babde2ff71fccc16cc3cd2625fa9f",
       "url": "https://json.schemastore.org/csscomb.json"
     },
     {
-      "digest": "e1bbe75ff55eeda1aee4df2a9509fd6ea35654553e1b6a737ca8497a60e0e85e",
+      "digest": "47cb41d4c5889de072c74362f1735253633226aa5ac1bd84098f9f9a1b2f1dc6",
       "url": "https://json.schemastore.org/csslintrc.json"
     },
     {
-      "digest": "c39e9cd5ade2a0d4e150def2e36ccd2586dc9364d1176280b609360bdbd5f48c",
+      "digest": "d798ecaa05f726ef4d6ae934cfa1100cd0a39613b48491f22bac549a54c40ff1",
       "url": "https://json.schemastore.org/dart-build.json"
     },
     {
-      "digest": "e05dc9cf2435dfb452197c69b7a31f03420bdc7c83eb118ae407b4ab7c560a16",
+      "digest": "55b10ca57db2e858bebe84425ef7c61ddbe086f52f5a2eeea8a87ee66ebb9bea",
       "url": "https://json.schemastore.org/dart-test.json"
     },
     {
-      "digest": "0110a2cd464fb41fca0958174524e332750e866b3a31f696d9dae65164299f31",
+      "digest": "e9b3c1815e45067d7f9e096df2428cfb1019a209faf3353f987cf12fc88dcaf2",
       "url": "https://json.schemastore.org/datalogic-scan2deploy-android.json"
     },
     {
-      "digest": "b6b69b14e6407eb53ebaa4d874b7c7d998a6cbedaa83c58d242e1c7c872fa28c",
+      "digest": "0f752fc78caa04a46378e189c3bb5c2bb53b980aa2d495d1e9f383c0b67ac266",
       "url": "https://json.schemastore.org/datalogic-scan2deploy-ce.json"
     },
     {
-      "digest": "3a319cb5a59289c3e788d9f8fb68015e0871bedd7c3ac123e66137a9840413e5",
+      "digest": "8678415ca7b8d900a244b4fcbd7528063b9cc7255f7035c61967cf062ebb790f",
       "url": "https://json.schemastore.org/debugsettings.json"
     },
     {
@@ -462,11 +486,11 @@
       "url": "https://raw.githubusercontent.com/denoland/deno/main/cli/schemas/config-file.v1.json"
     },
     {
-      "digest": "5435e7a379844d4eecc200512f86b84a7d207e436543ca63c88ca6b013886686",
+      "digest": "7342253d0465fffc79f1124d120ef066590b86a5ac8b1697ce4d4f9bb752d1a8",
       "url": "https://json.schemastore.org/dependabot.json"
     },
     {
-      "digest": "80c09f07cd5adfb79f19498576707c1552b3963ed88ffe713083c5e5c713a940",
+      "digest": "67ec204ddef86f1c8fc877f0ee2b777750aa4c2c57041909a10ff49f85ee16d3",
       "url": "https://json.schemastore.org/dependabot-2.0.json"
     },
     {
@@ -474,7 +498,7 @@
       "url": "https://raw.githubusercontent.com/deployphp/deployer/master/src/schema.json"
     },
     {
-      "digest": "a49515eeb5c8e908a9449a36f5ae9edb3b01f350def12aba61ccc1f7ec831746",
+      "digest": "61b29ce480c58de039872ef75a8891b3c3caa0ff328b2b0490ccb312fe797363",
       "url": "https://json.schemastore.org/detekt.json"
     },
     {
@@ -482,7 +506,7 @@
       "url": "https://raw.githubusercontent.com/AxoCode/json-schema/master/discord/webhook.json"
     },
     {
-      "digest": "5eed7406f3089117752f082069e1f6c85bede9a37ccad0887c843a4a1a991bea",
+      "digest": "9e6b7c962c96541db0eac3b5b241e966fd680f6b8504e122f9046c2f750392d8",
       "url": "https://json.schemastore.org/docfx.json"
     },
     {
@@ -518,23 +542,23 @@
       "url": "https://raw.githubusercontent.com/dolittle/DotNET.SDK/master/Schemas/Applications.Configuration/topology.json"
     },
     {
-      "digest": "38581e8449b6c991d31a9b26e9a1771f839216dcfeee003532ce6198bd8b9286",
+      "digest": "f9f2bca5709f90a9c8ba659f967576bd363d487931d28a5e9b40e778b72c035f",
       "url": "https://json.schemastore.org/dotnet-releases-index.json"
     },
     {
-      "digest": "2e6d232c56720fe139202c99dc152937f5e2416aafb2d54669bda4532d116852",
+      "digest": "76037daec2a62f7fd31164853d0794422746d0026d8774d751347eb31e43c736",
       "url": "https://json.schemastore.org/dotnetcli.host.json"
     },
     {
-      "digest": "e1ff04ea5fbbe50eb87658e040a6bf561df115a71fd3054271936978e82b9879",
+      "digest": "226a0ccefd60f2b2070a7ec237f7ddcc840b374791d04571df2bb3a6ff8e8f4e",
       "url": "https://json.schemastore.org/drone.json"
     },
     {
-      "digest": "43349c63aa758ac8692c725803eb244b517a6367734ac38210695013337e293b",
+      "digest": "30d3a1e411df54f23af2932f2724b0359db9989a48771f3c7da0e6e990d73c2c",
       "url": "https://json.schemastore.org/drush.site.yml.json"
     },
     {
-      "digest": "1c3f1a432d8868ff855535e2f206cad3ac9dc1bd6b61c4b9a5e48b5b2974bbc3",
+      "digest": "4cb541bd057adbb59789b76b07a193c0703e6820a766a305791cdcaeb8c0ba96",
       "url": "https://json.schemastore.org/dss-2.0.0.json"
     },
     {
@@ -546,19 +570,23 @@
       "url": "https://raw.githubusercontent.com/devfile/api/v2.1.0/schemas/latest/devfile.json"
     },
     {
-      "digest": "3cc93080a9a3f030e8944b7513892d7f93a62be90477f2532d82282705ecfc15",
+      "digest": "a32b6133a0bbcc0d28c67103b3eaaf2141a7b69ab838ef652abe4669229477f2",
       "url": "https://json.schemastore.org/pm2-ecosystem.json"
     },
     {
-      "digest": "86017c29ca04212cf4b8235db1c619adbe62fb1bd55bb09bcbf40570da36855d",
+      "digest": "6ee4124f10132755624102e5f6783abbcafcfc0e618f3ed66675aa1a32088c1b",
+      "url": "https://raw.githubusercontent.com/weaveworks/eksctl/main/pkg/apis/eksctl.io/v1alpha5/assets/schema.json"
+    },
+    {
+      "digest": "d748a1a651344589bdfe62ba187fd30ffb7934e8427aa2138033ad312fb9e738",
       "url": "https://json.schemastore.org/esmrc.json"
     },
     {
-      "digest": "01031451257b0675393fc248f93f160580d5805650f3a3c38b77b43478bc759c",
+      "digest": "27978c2b07d5921fa06c4583df06c7f3cb3bfbf1e67d2fb7d5a48a934668fce5",
       "url": "https://json.schemastore.org/esquio.json"
     },
     {
-      "digest": "312077b7ff80c020f316f6bd4e92ded7ffab2e8cd18c13dd3754de52aa9e82ae",
+      "digest": "e823931a99c086a0f216d4562fa3563efe4e62ab06a9dcac41f65dd9bc91064e",
       "url": "https://json.schemastore.org/epr-manifest.json"
     },
     {
@@ -566,7 +594,7 @@
       "url": "https://cdn.jsdelivr.net/gh/tarampampam/error-pages@latest/schemas/config/1.0.schema.json"
     },
     {
-      "digest": "6e434237b6ec32e44d6dad0329b81a07cd53927f703a03d3f9e6debec05818b4",
+      "digest": "3b5396dc971c4d1df973ee7f28a8824e791992fa450fd0ecf18b3d844dc473dc",
       "url": "https://json.schemastore.org/electron-builder.json"
     },
     {
@@ -574,19 +602,19 @@
       "url": "https://raw.githubusercontent.com/andig/evcc/master/schema.json"
     },
     {
-      "digest": "26381760e13140774d355157b0285121e0f2dd5a8dc01b8fd00e5a830c44c916",
+      "digest": "0d280ad0ca9425d9f19ea0fb55ff4e6f7167e8ab42a25fdc94945add8b6d7780",
       "url": "https://json.schemastore.org/expo-41.0.0.json"
     },
     {
-      "digest": "addd1d3f51c21f85a329f3aceebfc0452f84a4157390d11d011af5bdcb28a1ad",
+      "digest": "b6de27f9284081524bae79ef9080e653db477f2a031bdc847bc59a2f5a9838b1",
       "url": "https://json.schemastore.org/eslintrc.json"
     },
     {
-      "digest": "de07f34280088a8e10a1b281f1e5914cf720d51f00555d70f056eb69f24602a8",
+      "digest": "0011409a5900ebd0a086a364dcd7a4ce9c59e66add32dc66e4b21483911436a8",
       "url": "https://www.facets.cloud/assets/fsdl/application.schema.json"
     },
     {
-      "digest": "16875bc885199650babced9405d0f267096015e5a4791fed0f0ec62d887bcb7f",
+      "digest": "6361b783e4b841e07bb6858fd76a07559e8469bfe3c69f7b3aa442f01f609738",
       "url": "https://json.schemastore.org/fabric.mod.json"
     },
     {
@@ -598,19 +626,19 @@
       "url": "https://ffizer.github.io/ffizer/ffizer.schema.json"
     },
     {
-      "digest": "6d6c62109143fce7e92f1f2ecd00ea335281d84fa5be3c6a51c9eb825695b5bc",
+      "digest": "fdaee83c4f329cf662073ce1826cc2525d3ff8e85d4bf310d7fa508aed92e73b",
       "url": "https://json.schemastore.org/first-timers.json"
     },
     {
-      "digest": "7463324335baef33141c219d6f6408899fbd4a88352354bae8b3c386f5116b1d",
+      "digest": "e1545ccfadee457ef2dcc25210255e01fa41c9b4907d354fce09e298e61b79e4",
       "url": "https://json.schemastore.org/foundryvtt-manifest.json"
     },
     {
-      "digest": "5ff1e99b8b3d087ce9cb04bf320de7dfa7861c996009ac208871bedded3988a1",
+      "digest": "2599aa0a9dc8a75a4f6ef4a297e016aec1bddd399d7d34e41e828b4f266d0834",
       "url": "https://json.schemastore.org/foundryvtt-template.json"
     },
     {
-      "digest": "f0e727644d059bdd49dc99c24c32b8b845540c6354772f993339039a75a28248",
+      "digest": "0cb3fc529b5db3acc7e29e0e039b302a15da8a7655beec3b722d1e5a30a9282f",
       "url": "https://raw.githubusercontent.com/fossas/fossa-cli/master/docs/references/files/fossa-yml.v3.schema.json"
     },
     {
@@ -618,11 +646,11 @@
       "url": "https://raw.githubusercontent.com/fossas/fossa-cli/master/docs/references/files/fossa-deps.schema.json"
     },
     {
-      "digest": "c89391e461ebf0812fc75e52a22f8ee9a5037e31c402e1dd6bf7613d5d672026",
+      "digest": "480a917a7be8f4d9a6c4d2b28dfc28ed1253d0349dfa89c42d4ab0883b070102",
       "url": "https://raw.githubusercontent.com/knative-sandbox/kn-plugin-func/main/schema/func_yaml-schema.json"
     },
     {
-      "digest": "046c27d78f9c670362ba5e935f2e288aadb85fb3d7085620eb2c7f31e0256cef",
+      "digest": "22e45228d86376b44d7d3033b8ff2d281fe01ea96cffec62d63045e366490896",
       "url": "https://json.schemastore.org/function.json"
     },
     {
@@ -630,71 +658,71 @@
       "url": "https://raw.githubusercontent.com/cloudtoid/gateway-core/master/src/Cloudtoid.GatewayCore/Options/Schema/2021-07.json"
     },
     {
-      "digest": "9843e8a14f64b913336abf717e48ce141298dfc3f9ce50899647232b7fbdf42d",
+      "digest": "d221ad29afef2edccba14a537410854d83ccf4912a87c0cf8c2d26a7cfe08182",
       "url": "https://json.schemastore.org/gpc.json"
     },
     {
-      "digest": "b5572d965394445cdd4b9376537ba352db321cca168f2c60a0169488f72f1991",
+      "digest": "65108245edf8e9d69b021199656b2162b01c81dd6ba7ad1a41242d29d6fcedb3",
       "url": "https://json.schemastore.org/geojson.json"
     },
     {
-      "digest": "0af9b388ab5a2503b4dcf5148097d0995a355d8528a26374717313897a582996",
+      "digest": "388c5a666307f8aeb9ee7c74f6a858ecdeda6bfc09746d3aa8ebe617cea52d18",
       "url": "https://json.schemastore.org/gitversion.json"
     },
     {
-      "digest": "dc4c835b7a2a0dec3010dbb4c183d22a56bd39b25be674705c1f57f672c0a009",
+      "digest": "b472296160f31312df74d0af028125b5fc12c0e4c2305121a26c0691d26471f8",
       "url": "https://json.schemastore.org/github-action.json"
     },
     {
-      "digest": "0a2bb6e41832a8d52373c2da90e9548750714b534f47d056953ea46f6ece9090",
+      "digest": "cbeea25a7a19af228edb9414bc20361b0386b91006bc67220805cfe10a322b75",
       "url": "https://json.schemastore.org/github-funding.json"
     },
     {
-      "digest": "faf35f8cca566e786e7bf3036889d2e496980c495f5656b68672b93ffb252d3c",
+      "digest": "c1bc33b906793b1089e19cbc55b3f1a19ce8041c5239b72e7b11554f60218290",
       "url": "https://json.schemastore.org/github-issue-forms.json"
     },
     {
-      "digest": "5b8a330a379739b655a56397de133745537d62ab96c54bdf367e101b92d58114",
+      "digest": "821adb9a25a2ec9905d05331dda64c1bbf46be60f1ebceb19e983f03d1355c1f",
       "url": "https://json.schemastore.org/github-issue-config.json"
     },
     {
-      "digest": "c9b83e11651b47b34df7656b0870894974e16138e621c1ff98c8f41e3f59663e",
+      "digest": "f6e744bb8eb38d106356323f07bd01aaf49f3c27218eb2b69f87378746e3c6f5",
       "url": "https://json.schemastore.org/github-workflow.json"
     },
     {
-      "digest": "004ab195d3b04c59d73997f10207e9c0c8072337941c56bf03213219ee4e8f1c",
+      "digest": "c44c06044f49e5d997b052e19e7de628ff9ce2224d918daf2420771dba1f2244",
       "url": "https://json.schemastore.org/github-workflow-template-properties.json"
     },
     {
-      "digest": "9d4cba7b7a6d603ff5681820896b6c1ad970ef13dd84a7a3d70687765250e1ce",
+      "digest": "4f94c5f14e9313b554f0e10707f313eded7f7167dd99db02b1ba78ef0ec65e89",
       "url": "https://gitlab.com/gitlab-org/gitlab/-/raw/master/app/assets/javascripts/editor/schema/ci.json"
     },
     {
-      "digest": "17766eff902a364a2d2823dd0df3d25b99c35e54f15a309aae6e56f25d307c38",
+      "digest": "8cc819e18b9d660831d9e9fbbbf2b78b664d31685a02ba325e718f10e8dc5765",
       "url": "https://gitpod.io/schemas/gitpod-schema.json"
     },
     {
-      "digest": "09e104b011c7530af2ef79694c94d0a3543aae7f7cd1e8fb92be2aedd785c22e",
+      "digest": "db47eb1ca81612d6285b13b83cacb8c7f90e43535330abcae1684d6f6f3a3131",
       "url": "https://json.schemastore.org/global.json"
     },
     {
-      "digest": "228060692944cc2218ae750bfec6eed4f131f1b9e04f29dabd647f4ae45a06e7",
+      "digest": "0ab3b04f07788ded8c2500e4c9797c7d52f239456c9cf7a4d8ed1b4fd79fb053",
       "url": "https://json.schemastore.org/golangci-lint.json"
     },
     {
-      "digest": "b6445bcf048990785348c26f5ff4e413353c01c54cb8fc20498242016100379c",
+      "digest": "6f9703fdea576deba128ad4fe83609f859df1c1e64ddbf937e3a0898fab10cb5",
       "url": "https://goreleaser.com/static/schema.json"
     },
     {
-      "digest": "5b072c9ee747843f585cd9c03e5452fa17598ab75fc14ac8204c6e57a2e6d63c",
+      "digest": "13134c3210bac8db69987908a680ff7480acb06a0539073a6e3047140d635550",
       "url": "https://goreleaser.com/static/schema-pro.json"
     },
     {
-      "digest": "e1ea39a1c13bc44cdf891840abf179354bd2a6c8dbef2030ec0bcd2d5d55e79b",
+      "digest": "61171f7bf123efe4d2d438466016640738b6e3a6689b4f9c0b782140d3e7baa9",
       "url": "https://json.schemastore.org/grafana-dashboard-5.x.json"
     },
     {
-      "digest": "9c321cdec589c63f8bb8363da5bbb502ce0b3c9bfa6db97fc39baca22ad03628",
+      "digest": "5735974bd93f611758e9ce4893f531515af746477988a37d02f92578993c963c",
       "url": "https://unpkg.com/@graphql-mesh/types/config-schema.json"
     },
     {
@@ -702,35 +730,35 @@
       "url": "https://unpkg.com/graphql-config/config-schema.json"
     },
     {
-      "digest": "26ca432496f1f02e6e2ed2624b193553c62f9e96c95e4eb93895dc51388da96d",
+      "digest": "bc6b640bdcbdbe8427608e80b167323ad904f32c613342ed4cfee1b905bc4c4a",
       "url": "https://www.graphql-code-generator.com/config.schema.json"
     },
     {
-      "digest": "febddf1281f5756d204f91a04cfc511aa71630727838ea79ff14ff20f5c8d80e",
+      "digest": "ef06282203c06fd1f9f057114471f330dfe863faf6e75b8ec29fbf53d2f2ef0f",
       "url": "https://json.schemastore.org/grunt-copy-task.json"
     },
     {
-      "digest": "42c406a0c7fb2fa76b244a02f4a273d3f6c670a56fe8219a9cf77ac160a91668",
+      "digest": "ba07431d007de651fa727da8266a50c374ccceb0d5d63d0bace9df18309b5537",
       "url": "https://json.schemastore.org/grunt-clean-task.json"
     },
     {
-      "digest": "7ed6a48ff178bdb465373e4abcb400b6b8ad5357051c74416eb72508af53d616",
+      "digest": "850ec3f9a1617ae83835aa5cffcad945bb04941a60e7a701c33a62d2b9980511",
       "url": "https://json.schemastore.org/grunt-cssmin-task.json"
     },
     {
-      "digest": "de18cc92f21d8291b45fd9cde1ec439f93e2bfa5b62fe5ade9f123ad6fc4fee9",
+      "digest": "1a3a745e828db7ff0929dee9db63a16cbd568085b42d664f2c048d43218c8fc7",
       "url": "https://json.schemastore.org/grunt-jshint-task.json"
     },
     {
-      "digest": "9b78b9ba77e0489c0652e5ccdeeb269e74533c9c032e625e43486bfe6f6a680b",
+      "digest": "f601c7dbaa0a130a6fcba29c778ff58828da6fe70b6dc257a3d08a8d3f45d69a",
       "url": "https://json.schemastore.org/grunt-watch-task.json"
     },
     {
-      "digest": "2cba5d9600c8688cb200fd3d7a7bdba79ac1e88d8b37bfea51e8ab9473dc1138",
+      "digest": "10d1a202982dd3976e250494566f14014749240183b771e277ae5fa40fd80288",
       "url": "https://json.schemastore.org/grunt-task.json"
     },
     {
-      "digest": "ba3795f3c1188f292a0689e7302e50757653ae19b81201faf82ad88b778de70b",
+      "digest": "d5f0a0a3c773f53f3ec84c07ae3d53469f59cea7e4b7fa25f04d70af909b72d3",
       "url": "https://json.schemastore.org/haxelib.json"
     },
     {
@@ -738,7 +766,7 @@
       "url": "https://raw.githubusercontent.com/j2inn/hayson/master/hayson-json-schema.json"
     },
     {
-      "digest": "73e82442d176ef612cc03dd74a06c6d2751792adbfbcc4de79a523c5d4449b83",
+      "digest": "115f580b04efa4ba30a28a2e2f2deac186d0ad597d61fff24681ce23298e1206",
       "url": "https://raw.githubusercontent.com/deepset-ai/haystack/master/haystack/json-schemas/haystack-pipeline.schema.json"
     },
     {
@@ -746,15 +774,15 @@
       "url": "https://hazelcast.com/schema/config/hazelcast-config-5.1.json"
     },
     {
-      "digest": "667fc083dd583346b8237cf005509c84eb8aa50af45ee51f5c7559134de9d03b",
+      "digest": "13f809c746b04f57ba03c8d1c90684e29f6f06b4445541e0186d5575708079b0",
       "url": "https://json.schemastore.org/host.json"
     },
     {
-      "digest": "1281e6ab4afb8289e646e3b68b89c436e9bbe55dd385b12988c33fb364bc5d0f",
+      "digest": "a852f801cd0e8e897cd5679fbbd1349e2f1a668289accb3fba0f959393bd7385",
       "url": "https://json.schemastore.org/host-meta.json"
     },
     {
-      "digest": "d1562b516f8325c2668a119af2d442ac4b318a6b9b203f06569f5ce506255e28",
+      "digest": "1fc2dcf23e04af9bcb4fc628c1c7b9aad6511c63cc921ce09a9b2b8793ebe727",
       "url": "https://json.schemastore.org/htmlhint.json"
     },
     {
@@ -762,31 +790,35 @@
       "url": "https://raw.githubusercontent.com/ory/hydra/master/.schema/version.schema.json"
     },
     {
-      "digest": "a2ee9268a514853d620b34618579d5bb7988a884fde7a473ed429a9d43aa9a00",
+      "digest": "1ba5b62f57d83f5b564fa332f348b4ca794aadbbaf8789ac141d865f025d2164",
       "url": "https://json.schemastore.org/ide.host.json"
     },
     {
-      "digest": "d67bcbaa2b540b26e35ff17b8752287ce9b86ee8c68b650f517fce52e6647c3c",
+      "digest": "98052d7a638b784d00f942e9219bb4de690f0d2998b5b0b40520f1cd259d0083",
       "url": "https://json.schemastore.org/imageoptimizer.json"
     },
     {
-      "digest": "b7024bee70db98d3bc56ac36184e612269d96f5304f01e7eaee72e22bd3de7d4",
+      "digest": "9e65d2c37b5f7045323cdd0a635a4710b3ec26ef8d714a6cb0062961c949a287",
       "url": "https://json.schemastore.org/imgbotconfig.json"
     },
     {
-      "digest": "36a94cedcfde74eb12da6a55dd9f70f35a1466860502da39f5358df8ff7569b5",
+      "digest": "e989f6eb6750517b491b773414c8f5f2a9084daadadf8563d56ce3a459bb7fff",
       "url": "https://json.schemastore.org/importmap.json"
     },
     {
-      "digest": "24acdbb75b894b65e627a697f017a46250b1d6742f275b7db6a618096d3b4940",
-      "url": "https://raw.githubusercontent.com/ioBroker/adapter-react/master/schemas/jsonConfig.json"
+      "digest": "f9ecf01f233ffc3c9bafd22538b29fa714c018d62991698eff1184b192c82cdc",
+      "url": "https://raw.githubusercontent.com/ioBroker/adapter-react-v5/main/schemas/jsonConfig.json"
     },
     {
-      "digest": "6ab3c518951d6442f95d0a37cbba66335627ef25fbc3c9dd1728a8540a198347",
+      "digest": "237d7cbb9fd43599968d0e0dc17283f70ef1db40cbad36dfea442ace2a3435e4",
       "url": "https://json.schemastore.org/io-package.json"
     },
     {
-      "digest": "e195c0b5efbc26aa083a97da1a34c76465d8214ead0dd0eec9e84b9000c5ccc5",
+      "digest": "ec26c46ddf0ed6daafbcdd8ebfc2930765487a6a72172b9eded270a4c7722215",
+      "url": "https://json.schemastore.org/jasmine.json"
+    },
+    {
+      "digest": "a2a0c5109718b9486f624f2bbde6d5b4f2c1dd62b42044ee3a5b1448f3838be8",
       "url": "https://json.schemastore.org/jekyll.json"
     },
     {
@@ -802,27 +834,27 @@
       "url": "https://raw.githubusercontent.com/jfrog/jfrog-cli/v2/schema/filespec-schema.json"
     },
     {
-      "digest": "ffcc48de1854e0ffae80d34eeefe7e89316e430a3a091d3e01d4f5aa94d4cf06",
+      "digest": "7a02f8360e920aa65b855b6946fa66dd918dfff48d2736ae3d96523d6bbcf32c",
       "url": "https://json.schemastore.org/jovo-language-model.json"
     },
     {
-      "digest": "1f99d4f90d8f3130c7564265143562d023448692a576c37bc44dd62b3016f42b",
+      "digest": "79866f1728f68084bafb5c65c4e165ea72b6960275034de430579e9865002696",
       "url": "https://json.schemastore.org/jsbeautifyrc.json"
     },
     {
-      "digest": "8e2975d49c18dbf062a365ee5000b8ff55e2cbb56460a2dce1363c81dc5d1f26",
+      "digest": "c67f72c7275891e5f079fef8495ca68126f6a7ca1d60a621dd5f3b3afe1cdbd8",
       "url": "https://json.schemastore.org/jsbeautifyrc-nested.json"
     },
     {
-      "digest": "876a3636443da85ffebe890b948faea2f0a88302584c7d63a05caed67f99e7b1",
+      "digest": "b96e32b8950b8dae04abc3e6e52f5a92ecbc5ecc77b09b908b2eb72116173942",
       "url": "https://json.schemastore.org/jscsrc.json"
     },
     {
-      "digest": "6838245efa776564568a9f5baec34dfeea74bc2239807c0fb2f815221178aed2",
+      "digest": "9b5b50ca3c2f7b5d65132b9e7335c8b185a1bf65c31dd89ca5a8bf5d3a0a8806",
       "url": "https://json.schemastore.org/jshintrc.json"
     },
     {
-      "digest": "43c7672f0bdee88ec8d3573e454e33618734392165efe16f5042320d1f65a4e6",
+      "digest": "10da87675fe3522886878bbcbaca976139070acbcb7a0d3075ae5f5ebbfd25ca",
       "url": "https://json.schemastore.org/jsinspectrc.json"
     },
     {
@@ -830,28 +862,32 @@
       "url": "https://jsonapi.org/schema"
     },
     {
-      "digest": "b63d1e140b22beb39a5cab4d213c6f14d55a3cc4b2eb6a6c4ee42306272e0e24",
+      "digest": "3c91af8ad06fef0540e1d2cf44cf0c1dd43c78ef52fca058327ce327d659598e",
       "url": "https://json.schemastore.org/jdt.json"
     },
     {
-      "digest": "a33bf74e11b721c2c40cd7485fcfcb691ee2c92f5ac93478b54aa84ad3c582cd",
+      "digest": "d0105283b9d431ff0536f6da81df9a7cb3e595e7c2fe80e89655940753e43d94",
       "url": "https://json.schemastore.org/feed.json"
     },
     {
-      "digest": "4b1ad4f80221e88d1a2ce05bda7a4e3d1f5cf4e6a503c48119b7cd4c52e2e2ce",
+      "digest": "3d81d801d7173f32d981efc8c564e49619d59cf020e60342eda644f85f977f15",
       "url": "https://json.schemastore.org/jsonld.json"
     },
     {
-      "digest": "2d7d41986024c041043213ea97653ce663dd6b71cc7cad40680454488ba7ad07",
+      "digest": "9c4e9fc5dc5f4db6aa15ab4e1522421b727eb763dbeb91cf3e065397950dadd0",
       "url": "https://json.schemastore.org/json-patch.json"
     },
     {
-      "digest": "3bddd03df55da8a0f85329b01a346cbdd247adb21db3965ae6eae9a150fa5f74",
+      "digest": "0864ae66a098ea4b6b3ca03245d924eaad6d9337159be3beef77ffcac984babd",
       "url": "https://json.schemastore.org/jsconfig.json"
     },
     {
       "digest": "8b3c64e29de7ac9ede44658067be0df81580e43cd3d3f985290d362b1e9a72c8",
       "url": "https://raw.githubusercontent.com/rancher/k3d/main/pkg/config/config.versions.schema.json"
+    },
+    {
+      "digest": "4bfb0e3b0af098de47a39a0d59a19e080cee8660b1cdf56f05660edaca6ff226",
+      "url": "https://www.krakend.io/schema/v3.json"
     },
     {
       "digest": "bc6308dac61063ff62533ec3f2a5b71b7a0ca29b284212893fc3670bfc85ad71",
@@ -862,39 +898,43 @@
       "url": "https://raw.githubusercontent.com/ory/keto/master/.schema/version.schema.json"
     },
     {
-      "digest": "147e103e080bb9b84224b465b03fdf50c760e3c9b261f130cee317eed3ebb8ef",
+      "digest": "a4846df9716626d0d535c7604c7cf26959d0491e8144a0cc853c398d88332c01",
       "url": "https://json.schemastore.org/kustomization.json"
     },
     {
-      "digest": "92d541e38d92c416cfecdfdfcab4e28f5283856d0af84a4bbf81301cdf0c640a",
+      "digest": "338c7411ac4b20d6af17b1c0e7691d16a2ebf4c5f1c703785bcf2403ad8b389b",
       "url": "https://json.schemastore.org/label-commenter-config.json"
     },
     {
-      "digest": "3f3877b92fac142e62676594ef6772309ae1bea2a09162634134cd30aba89838",
+      "digest": "3a01416b71e94690ab046a2007f04a19acf397ba9544bc31790b728c364b4047",
       "url": "https://json.schemastore.org/launchsettings.json"
     },
     {
-      "digest": "d84aeb2bf8a87eea79fa84ee50547ca8befdea77d0054cb60cd712e0481ef08e",
+      "digest": "46bf7c52e286b6905fcfb639fb0ddc7b909f5b286041efbb1b6c35a0fc5f9ae8",
       "url": "https://json.schemastore.org/lerna.json"
     },
     {
-      "digest": "a2c76c4c0aa4e74c11711ff8fa4e5f764edab2c88d02414e6bd5133dad02d5b2",
+      "digest": "248da6458de68ebdc33e855095a3d47315eb9621e7d20aaf5a7c1df33314fc90",
       "url": "https://json.schemastore.org/lgtm.json"
     },
     {
-      "digest": "278518eda15ffb7d78f2ff917b8fbc06c03f16d69433577b0e3a59f8508bac33",
+      "digest": "0b3deccd36ca9ce32300001f490a1fbd98efe101d19c5e88248c156cdadda2d8",
       "url": "https://json.schemastore.org/libman.json"
     },
     {
-      "digest": "2249afa3723845f5c2ad40e23626cca316e6786bb83f5efb4cd0f7518c8f9476",
+      "digest": "c8d10fadc65caf1f1aa781443d5df90f963577f9bfada40b2a7ae22b581d3add",
       "url": "https://json.schemastore.org/license-report-config.json"
     },
     {
-      "digest": "28717521e62cf7439d46ed2eb8c2cfe17424de27979d55f270d718f7e5882827",
+      "digest": "2094626061ee8b3f482161c7d8565997e2bacdb60d1ddf244a234fa89efac48a",
       "url": "https://json.schemastore.org/linkinator-config.json"
     },
     {
-      "digest": "56a628d95c3f91454eceec2022841ce8489f9107929ea31731fa3f681186d8d2",
+      "digest": "9bfe7112beba30e90fc56224be7315bfd6e53dd6be721e7f464f30d4a1dcfbfd",
+      "url": "https://w3id.org/linkml/meta.schema.json"
+    },
+    {
+      "digest": "467c4b54ee022f4a6c37b79ac53d16c4bfdf7827722c9e16422172cf2601230e",
       "url": "https://json.schemastore.org/local.settings.json"
     },
     {
@@ -902,7 +942,7 @@
       "url": "https://raw.githubusercontent.com/localazy/cli-schema/master/localazy.json"
     },
     {
-      "digest": "e118fa290413487b0645c02cdb80e64c3c6b35bfbe323977d6c076daa312c90a",
+      "digest": "41aa20daf88b3a2fc8f5045aa30e280a84c746d09c525531ce01edba08989365",
       "url": "https://json.schemastore.org/lsdlschema.json"
     },
     {
@@ -914,63 +954,63 @@
       "url": "https://raw.githubusercontent.com/megalinter/megalinter/main/megalinter/descriptors/schemas/megalinter-descriptor.jsonschema.json"
     },
     {
-      "digest": "33bb58b4a6be7170bbb424cd96a7f47e0b128d8a2314038d5ea0ed7288e8b6c9",
+      "digest": "bebef566acf214aa4739bdea6fe0be67d4a441d9231109d9a5c68e6f5cdc4bb2",
       "url": "https://gitlab.com/meltano/meltano/-/raw/master/schema/meltano.schema.json"
     },
     {
-      "digest": "5b4d46e25b335da3a69b5b1cb391b889a1ea0e61ec17587a042789b64e3b510f",
+      "digest": "8bb0dfe9f743d2de2e511c79feab7de2b33bf0f18ce4d92996486c1b67fa0134",
       "url": "https://gitlab.com/meltano/meltano/-/raw/master/schema/discovery.schema.json"
     },
     {
-      "digest": "4c605e08869a1ffb2c31def2fe9bfc044b995f51e110c781dfb192a15de9937d",
+      "digest": "6a133aa174c0f1a140a4703c2749a7de3e8cbcb328bcf88ebc1e6be1c9094c26",
       "url": "https://json.schemastore.org/band-manifest.json"
     },
     {
-      "digest": "9200bac622d678215a61d60e9dc2d85faef696acca563f9722557922c0a808bd",
+      "digest": "a013d30ef15092e48044ce6f4520dadc8a84495978a75d931f11c11c7a4e550b",
       "url": "https://json.schemastore.org/mimetypes.json"
     },
     {
-      "digest": "96d92af202c7e7e111057dae93effeae3492aefae4ee412689750421598161a7",
+      "digest": "011f232151db2a5a4ed4cc4992b0a92c93b4f18c8e14ad3c09153426bd831c35",
       "url": "https://json.schemastore.org/minecraft-advancement.json"
     },
     {
-      "digest": "9389537552135c6f2b1bd32797d72536b36337f34f11eace8307dea95f3d2591",
+      "digest": "d020997b1f26aec2be87b0d10c2229fcf90baed117da466497bdeddaaf1dea7b",
       "url": "https://json.schemastore.org/minecraft-biome.json"
     },
     {
-      "digest": "43c4ac5214601972ae98ede6e3f261c4d44cfc660db87061cdf251eefb64c270",
+      "digest": "b8c5487943fa3d3622565b0f13a38774f4402bd69109c70cba422f902de0143d",
       "url": "https://json.schemastore.org/minecraft-configured-carver.json"
     },
     {
-      "digest": "3c5585dadfa9f52b850ddfce44ce9b8fae0e4a3e94841bb20e413647c575b5f3",
+      "digest": "dfb280244fd5a06d7cce53c1692d9a160af01f11225c678540e5f117f2f61dd8",
       "url": "https://json.schemastore.org/minecraft-dimension-type.json"
     },
     {
-      "digest": "ec0d49da81d6a66c7b2dd906b0938891f4035a3f412126747ab3c246c4e5bbbe",
+      "digest": "77616f8498bda7eb9797cc678cf10660e895abead0ba9c602443d9713e04c278",
       "url": "https://json.schemastore.org/minecraft-dimension.json"
     },
     {
-      "digest": "da6e40d60278f90335006b4f8f1d6cc0e8d20a344cb9ffd3dff8300f66189d41",
+      "digest": "104ba7c05d32985c5117744c749d0275d15b42ba64a58b7c494714d39d637b4a",
       "url": "https://json.schemastore.org/minecraft-item-modifier.json"
     },
     {
-      "digest": "19c257c46f345ca73c6ef875d9d6bc86bae6c502a6cb98b8a0d05677dedb640b",
+      "digest": "d3bf108f20a91efeb68837713fe2d4ab449d70a433d79bfd2ec8f780c9e3ef21",
       "url": "https://json.schemastore.org/minecraft-loot-table.json"
     },
     {
-      "digest": "d99a400ed01c223569694b827feb3f60e1de0ab9a951d62d5fb085b110a14bbb",
+      "digest": "6c58ccb48ea7baa773957d70b90617a9fd207ad42e22b3135fb4514e795d5f04",
       "url": "https://json.schemastore.org/minecraft-pack-mcmeta.json"
     },
     {
-      "digest": "b1734db414760bdaf2f2a657db2023242b30eabb1dd65b9faee81bff6cd054d7",
+      "digest": "aca81a6e6eb02682d244f1d1107d20c1af0ca1e7e1ae0103ad86c1a41bd292f0",
       "url": "https://json.schemastore.org/minecraft-predicate.json"
     },
     {
-      "digest": "d5a9b68daed5dc36a47e6524764eccca1ebe1c4b016642f329f85d11dcc020de",
+      "digest": "eb7a2f8900df8ecb249c55c24580d1b269fd447e208f5558c28cce3314715d48",
       "url": "https://json.schemastore.org/minecraft-recipe.json"
     },
     {
-      "digest": "ab56887a717f8788670e02a7fbe68ce12c09d4619cca2650334fb76c8693d989",
+      "digest": "f1901bb6534a044b650d209db2bd0e35e6f2a3a13137cbf25ef5466ff8d5f3b3",
       "url": "https://json.schemastore.org/minecraft-template-pool.json"
     },
     {
@@ -978,39 +1018,39 @@
       "url": "https://raw.githubusercontent.com/AxoCode/json-schema/master/minecraft/sounds.json"
     },
     {
-      "digest": "56cd8e5407fbdfb724943d225baf9f78831b902f8bbc3932be7d3808b8baf9f3",
+      "digest": "99de574b5e6cbaf768f0abf782d86bcab87804a5fff87d4575d48a7074ce7de4",
       "url": "https://json.schemastore.org/mocharc.json"
     },
     {
-      "digest": "5a90ad6fa38e55d8f28e4018e38e395203305892e690e20d0835805a2b41877a",
+      "digest": "a6a8ef5108680f6edc80014c9ee058c705d649599b4de11e2f72ccedffdaf8af",
       "url": "https://json.schemastore.org/modernizrrc.json"
     },
     {
-      "digest": "2fd63c2ffc6a70ced180583b55dff9e54f645bc105b17a076fd689428b29ad0d",
+      "digest": "148d9989a2a8b8227742607de1879c68f472b5e207edc75c1da04e077840b64c",
       "url": "https://json.schemastore.org/mycode.json"
     },
     {
-      "digest": "a6de834e7e497eae121f9f81dd48540da077032385bac8c0b5136ea97d189f29",
+      "digest": "ca7c21b60154b9a39d5cd4d62c1cdc285cabfcc3c82df399b48fae262dd861e4",
       "url": "https://github.com/napari/npe2/releases/latest/download/schema.json"
     },
     {
-      "digest": "6e2aa6730917433ff3e2dda4f4c583bb157d531df528f59b5f9ec3c386248885",
+      "digest": "b13f6423330fb4a8b9d38a7d8a17a2e005f653ac8307b24814be99f8078c41e8",
       "url": "https://json.schemastore.org/netlify.json"
     },
     {
-      "digest": "27c5a20dcd72d27e43bac6e4187bac609acc4268f8561353640d8152d9a2d1aa",
+      "digest": "68f66a7f2102bef942bbe643f8851a027338f000c3e45e8261ec00856d01d639",
       "url": "https://json.schemastore.org/nightwatch.json"
     },
     {
-      "digest": "192fc7a7a6e9af23931c23652b2b2530a5ff3437157c8eb780a6cc78ebcd9893",
+      "digest": "cbdb82ba2c321f27921f19bf7401d4ed1bcff5973c9e70ebd271af2e53e626ee",
       "url": "https://json.schemastore.org/ninjs-2.0.json"
     },
     {
-      "digest": "8f85b98a6615784c606ba4eed1e6672a8f7e51709c8567253044acbfc7d18f93",
+      "digest": "1409ac05ab13c677c4c49ea1814dbf0d68a079a7aface54d78de02cbe3ae5460",
       "url": "https://json.schemastore.org/ninjs-1.3.json"
     },
     {
-      "digest": "b0f5615de13ffce8f4ca6ae859d0aa2f2d31fae16b23ddd94cf29cdfe27c7ac5",
+      "digest": "da2806a42e43fcf75a98fb0cf43b625e708f7561de4d7d7ef9ca7d66479c4bd5",
       "url": "https://json.schemastore.org/nest-cli.json"
     },
     {
@@ -1018,15 +1058,15 @@
       "url": "https://raw.githubusercontent.com/oresoftware/npm-link-up/master/assets/nlu.schema.json"
     },
     {
-      "digest": "316a6519bbf46602e324d23fd9c890742f0402ab5e2cbb0b0acfc39152ab5e83",
+      "digest": "7acd053f827012c9cb7f45bb84d898c5dc391c1aab25b120cd70aaa61ba2cb45",
       "url": "https://json.schemastore.org/nodehawkrc.json"
     },
     {
-      "digest": "6406a6568fb810e5635246ee13b176a9a42fd4d47e5635c1a766adf73b87ae72",
+      "digest": "0fcd806deb110d9b24b74b2456493827e1cbe60ae8118bcaf5fc6ff2c05c778b",
       "url": "https://json.schemastore.org/nodemon.json"
     },
     {
-      "digest": "699bbef7542bb2464e3e0f9971d68dfc6178e50f7b317734aac73d806a7338cf",
+      "digest": "ca651068232cac73b19fdcc0da18a647db04902637dac29890c5542dc3e54c21",
       "url": "https://json.schemastore.org/npmpackagejsonlintrc.json"
     },
     {
@@ -1034,11 +1074,11 @@
       "url": "https://raw.githubusercontent.com/projectdiscovery/nuclei/master/nuclei-jsonschema.json"
     },
     {
-      "digest": "6e9f8ca5073fcabce0cb586cd8b19d78e4585ee3138cbd0264bd0267d66a6557",
+      "digest": "5e5356299972c04190b3e680adffbe02e71426ef4572cc903fcdd337a556ae1b",
       "url": "https://json.schemastore.org/nuget-project.json"
     },
     {
-      "digest": "405bddf761059e6821e82bdc0f2b81db6190a55c7737d6a73527739f6e147f44",
+      "digest": "cf3dc04d908bb4625c2d3eb33e624acdf012e30cd741d673c0d181f5c5aa2a9f",
       "url": "https://json.schemastore.org/nswag.json"
     },
     {
@@ -1046,15 +1086,15 @@
       "url": "https://raw.githubusercontent.com/Avanade/NTangle/main/schemas/ntangle.json"
     },
     {
-      "digest": "7d32e059e870e970a844a301646c9d9f18210b0938535a1c1ceec22c9a07d619",
+      "digest": "cfea25212ef4a6e8b8737c313b15d30f193cedd600e4e413420524823fd45486",
       "url": "https://raw.githubusercontent.com/ory/oathkeeper/master/.schema/version.schema.json"
     },
     {
-      "digest": "247369f73cd996e6fc99cfc96bf2f9c25a09dfa3f7898d989091dc90d514dc9d",
+      "digest": "9b3933a84a785ca1f385354b8013fdf04d33a794004481b60398fee7b6e9f4a5",
       "url": "https://json.schemastore.org/ocelot.json"
     },
     {
-      "digest": "b9f913b2e04098a12c6f422c4023307e64a89ccd735c8c4a4c256eb0f7f13b2d",
+      "digest": "97b75dea83fa71ff14e960843edd4072e24a479df53a772fc668b0569977ec9b",
       "url": "https://json.schemastore.org/omnisharp.json"
     },
     {
@@ -1062,11 +1102,11 @@
       "url": "https://raw.githubusercontent.com/OAI/OpenAPI-Specification/main/schemas/v3.1/schema.json"
     },
     {
-      "digest": "8b3702d932b01b558c03120db7eb674a2f001f08f67fce13050a7a336cb23a1d",
+      "digest": "aaf5a1e89a231452c52af86cab8da61d11736577a334e420ace767215fa879e1",
       "url": "https://json.schemastore.org/openfin.json"
     },
     {
-      "digest": "2451bdf9d20eb8bb7470df768e062a95b695178dddc57c4591dd96f38a680c1b",
+      "digest": "98433c6edd86ce92cbe45d9736a393fdf51ccbef5592c7499f22f07964373df9",
       "url": "https://raw.githubusercontent.com/outblocks/outblocks-cli/master/schema/schema-project.json"
     },
     {
@@ -1078,31 +1118,43 @@
       "url": "https://raw.githubusercontent.com/outblocks/outblocks-cli/master/schema/schema-table.json"
     },
     {
-      "digest": "dac5c71e6729537fc2e7b180ff4e0cb672bbd79c3cf798623dd665c439728706",
+      "digest": "0c1a65aa2ecd6d3a0288ffb76a1b1968337b22f4b313a80d37957ea1f644ab8a",
       "url": "https://raw.githubusercontent.com/ory/kratos/master/.schema/version.schema.json"
     },
     {
-      "digest": "b6a5e72aca07e2def21f029d64d28cdab01ad29185d7fee950dd67aece92b377",
+      "digest": "688c2d3535aa717c4e6da2568c32c9d8d1d4b3225190833794afd804a692a991",
+      "url": "https://raw.githubusercontent.com/oss-review-toolkit/ort/main/integrations/schemas/curations-schema.json"
+    },
+    {
+      "digest": "39d68bfce1f8a056ad5e5472e496c243d2f782ae2dec73f0d184b75f5b51d9b3",
+      "url": "https://raw.githubusercontent.com/oss-review-toolkit/ort/main/integrations/schemas/package-configuration-schema.json"
+    },
+    {
+      "digest": "bef1d143f30cacac7c226d4a9b89242fbb85ee5c04e65650948ec1c0a359dda8",
       "url": "https://raw.githubusercontent.com/oss-review-toolkit/ort/main/integrations/schemas/repository-configuration-schema.json"
     },
     {
-      "digest": "b4c3aba736bab7792907f5a248eecd40989b9144ba9a92dab774f5ee8d8952b9",
+      "digest": "d1616998d96ae2df4b5fcf42f16bed43b3a571ef533ee9062618b17e6a1c4982",
+      "url": "https://raw.githubusercontent.com/oss-review-toolkit/ort/main/integrations/schemas/resolutions-schema.json"
+    },
+    {
+      "digest": "902bc096a5d35046b32298764b40d9747309df479f6a7490fab068609b7eee4a",
       "url": "https://json.schemastore.org/package.json"
     },
     {
-      "digest": "ba61cecd862e383e35c2e0539fa3d19d7ee42cf3f02feaf90a94cce26685eda5",
+      "digest": "6e4233cbc7163dc36334f612ee69ea274bd602da8c5753d9be91c43a5694718e",
       "url": "https://json.schemastore.org/package.manifest.json"
     },
     {
-      "digest": "453c36ea8877cefb62038943d77f769e3a41629271d1844649983181fa45e608",
+      "digest": "8f485c491532b1bf3f6f4f237743779c4734d79ff88401bb0dc0e6d249e0f563",
       "url": "https://json.schemastore.org/packer.json"
     },
     {
-      "digest": "21076eb3c7fee53a245ef22dd949f663e4a58753d6213aa8ba6ed9cbf1103947",
+      "digest": "3c3571cee47d29115067231c360a8d5723af2a7bfe85e2a72efe0167f13ee767",
       "url": "https://json.schemastore.org/pgap_yaml_input_reader.json"
     },
     {
-      "digest": "af2885bad3789a2295e517528416f8c91219bc7a9cfb50ff41c39fe3b26d0f71",
+      "digest": "3fd8ca0ea84e1a6555b6dbd64bd14f43270fd95e94e42b52b48808e7f09bbfd3",
       "url": "https://json.schemastore.org/pattern.json"
     },
     {
@@ -1110,15 +1162,15 @@
       "url": "https://raw.githubusercontent.com/pmbot-io/config/master/pmbot.yml.schema.json"
     },
     {
-      "digest": "405f84e7167c7ed3778560144fd4f3560710240e5909258aa29903e947e9cf43",
+      "digest": "b3a39d27ca84d463bc4c39293f2dee1c59125761cd59dc5b4fb0fd4a23061611",
       "url": "https://json.schemastore.org/pocketmine-plugin.json"
     },
     {
-      "digest": "d07761e48f5dd236492236b4b4ef072a8b47713800d79caf702fa0ffb1ca6684",
+      "digest": "687ed18083c540173a87b4d51d7c35caa0158017d2474279121f4150fa3d193d",
       "url": "https://json.schemastore.org/plagiarize.json"
     },
     {
-      "digest": "efb8cce6785344a7158332306b8b4a918e09468dc6774e6ff943ae8e4d47f4fc",
+      "digest": "5c7c3e80a743b32f8185b020604bdaa9b2e2f66522b9430060fa53cdbc017a4c",
       "url": "https://json.schemastore.org/plagiarize-me.json"
     },
     {
@@ -1126,91 +1178,95 @@
       "url": "https://raw.githubusercontent.com/apideck-libraries/portman/main/src/utils/portman-config-schema.json"
     },
     {
-      "digest": "6a1cd06cae54c9ddcb063dc53aea37fecf5a73f39aecd59fdc8468e34a81e2a7",
+      "digest": "2e53678279daec6b2d0bdf46279ae6fa37ed04ca4e24a9657c43c4f3b3c25f98",
       "url": "https://json.schemastore.org/postcssrc.json"
     },
     {
-      "digest": "de33da8c7faacbd522f96a4406181b8bb8f4b8c12e2d77db145566b9b9cb01a4",
+      "digest": "80e082c6cccaf720fd3b12cd5efc02f44e9f7937aa03f195f63453469702f2a9",
       "url": "https://json.schemastore.org/pre-commit-config.json"
     },
     {
-      "digest": "15133483127daa5804a70c93d2f33f3c3772a162eeb6634b6f406304dcae8ec3",
+      "digest": "8e8408e02480d6636a151a3e22cb8756af990b3a9ddba4048294e4256673b29f",
+      "url": "https://json.schemastore.org/pre-commit-hooks.json"
+    },
+    {
+      "digest": "3966787cf0bbfb1c9e2827fa3ec6678782cc27c74e5cf4b05a3ed77024d499f5",
       "url": "https://json.schemastore.org/phraseapp.json"
     },
     {
-      "digest": "7e4830ae68859495d9a8eed9a2f57324e146ada8c2090879e2117870dae92d50",
+      "digest": "63716d047a964c3c76f5d77e82e7d5a53b67c5bd869b3196ff53c6869949dd8e",
       "url": "https://json.schemastore.org/prettierrc.json"
     },
     {
-      "digest": "b6f122c12a21d84e3292d01ce91bcc375064b0bbd7f34c8ca962afbca4023b12",
+      "digest": "470c62f8c76343956b4f5b26e85e2add114c14a58c2d905db57f4344e1039e37",
       "url": "https://json.schemastore.org/prisma.json"
     },
     {
-      "digest": "8ccdbf3e8cdec190deaa62f8b264f4ec4433c1b716d2a7e7f64c82129073f021",
+      "digest": "950f628a995340e244030e7f082605b7c92d34cdff31f7278bffc76870783a3f",
       "url": "https://json.schemastore.org/project.json"
     },
     {
-      "digest": "1eba10e348ab09f4ae9ff98c72318cc21587562c04ecf59edc3b051b28f2f2f3",
+      "digest": "b80306610896114678c256aba67c4d52033957e378cd28ed2180930727c06808",
       "url": "https://json.schemastore.org/project-1.0.0-beta3.json"
     },
     {
-      "digest": "083864c2964d16162c7f1f9dadde39deb5065e6bc95337bf65a8c517024c9294",
+      "digest": "f78ac3298898ef4406350f20483404d4d4fdf945b62ce76d06e3057eb59c5819",
       "url": "https://json.schemastore.org/project-1.0.0-beta4.json"
     },
     {
-      "digest": "21bea59c005bbdf3c5e81b2624ae1a53b32e852146afc7d5d257cb0ea0b97707",
+      "digest": "5942378c880014449dcb4f727fd08c3ba24a493e78d913b57baca69b1b61de54",
       "url": "https://json.schemastore.org/project-1.0.0-beta5.json"
     },
     {
-      "digest": "49d7d9a158a5d0077829d365f04aea6edbe7fcaa8e035969431edd2afc167424",
+      "digest": "b68eb162ca06fad31a2c5449ac9d74bcb4317407e88c212af868f9024533a51f",
       "url": "https://json.schemastore.org/project-1.0.0-beta6.json"
     },
     {
-      "digest": "7175bc3244212b76a33da125911bccc1cabbddc3bdf3f773cfa568e11f23e504",
+      "digest": "0e62dc135ac4af50321d7b420c61a0f67587d92a4380191432272a6e60b923c6",
       "url": "https://json.schemastore.org/project-1.0.0-beta8.json"
     },
     {
-      "digest": "b4f70006d2eda379699615f4bfd6a783a4bda4d987881a5b6b21ec52e65bbf45",
+      "digest": "a37def03f524940c44384ce4c0359818a972d76aebcd26ada1fb1876b20de582",
       "url": "https://json.schemastore.org/project-1.0.0-rc1.json"
     },
     {
-      "digest": "58b832d66069da5a212e6207375fb1fd16c15e06abd82b0429f7c1ebe868e0cd",
+      "digest": "b89d1e3d42a240e7ff051adbf55471254c5a080e591fe71b2fd31292e275ec35",
       "url": "https://json.schemastore.org/project-1.0.0-rc2.json"
     },
     {
-      "digest": "2251b0b0bfc3848bb7ec68f72d4f39700604435ce36d749eb961e0d133b3c754",
+      "digest": "937f379e2c7033892ad9827d46ea8a443ae0241810154b6fba67223c0d792da4",
       "url": "https://json.schemastore.org/prometheus.json"
     },
     {
-      "digest": "3035081fa5827acf2bc612ecf55f8f0c631a6b066b4cc02d48b03aa253788bfb",
+      "digest": "08c4fd7d7eb009e4c80f910e3731d270219528b66edf20ab4ce05f817b4b083c",
       "url": "https://json.schemastore.org/prometheus.rules.json"
     },
     {
-      "digest": "ad8b33caf26e11b6c657e2ff8542ab4127e5e3a46877deed009e0d637ddfd80c",
+      "digest": "23f3f6031d484e88667481caddd78a2d57c5a611e43217dfd267c851d95f228e",
       "url": "https://json.schemastore.org/proxies.json"
     },
     {
-      "digest": "2f35f0676e6ec6ec242301de0a995a518705565cf411e16dbefb0cf0a5ddbbb9",
+      "digest": "593b215ce664833aa3d5e69eb86672a385db5f8bb9779466c14edd06475de3bf",
       "url": "https://json.schemastore.org/publiccode.json"
     },
     {
-      "digest": "9fc28bf65c89724f4497bad9e78afc444be65aedee90002e4d5d5dbc10d23590",
+      "digest": "39a5704359ffdb9c617ba6db5b3852241e22cc77fbcb1894b351c0b9c65c5a2b",
       "url": "https://json.schemastore.org/pubspec.json"
     },
     {
-      "digest": "a0617b94825113da739e3c88100971c950520336d48495d3c4105df828afebb5",
+      "digest": "c8a6b6580883b81b3001c935393d7b92b4ea3d9d93f17db14bd19e17e99b6d9d",
       "url": "https://json.schemastore.org/pull-request-labeler.json"
     },
     {
-      "digest": "a8e934d2ec594301e139e92edeeb3ecf2ecc6cf59907cca02386d889be688391",
+      "digest": "cbd21a554a290bc2d8385515e90c6c4be198cce5a191d92c0058036481f8b39f",
       "url": "https://json.schemastore.org/putout.json"
     },
     {
-      "digest": "0c2e7f2252ce1393e44b23747eb87c5be595a841f035717245570efec207b473",
+      "digest": "99278c35a42281986fbcc7c9f2b5f05ef7f41045be3588d6cd6943fb458a6b2b",
       "url": "https://json.schemastore.org/pyrseas-0.8.json"
     },
     {
-      "digest": "4e91baf0db94de35c2171aba050d0fbb9678ffe475523590174415e22445dde8",
+      "digest": "8af33758aa8ff19173eabb0a976ea1b499f5f4eace61afa5665ed3f3aa7a31df",
       "url": "https://raw.githubusercontent.com/readthedocs/readthedocs.org/master/readthedocs/rtd_tests/fixtures/spec/v2/schema.json"
     },
     {
@@ -1222,15 +1278,15 @@
       "url": "https://raw.githubusercontent.com/Cog-Creators/Red-DiscordBot/V3/develop/schema/red_cog_repo.schema.json"
     },
     {
-      "digest": "a879a5f6d911ef4f536adf2b18129054a8d1dc240df85c73d4df0ea4c76ccbfa",
+      "digest": "8548cea7b0a1713b005036f9db33171df80174d37fb998a7785c6191d893e906",
       "url": "https://json.schemastore.org/rehyperc.json"
     },
     {
-      "digest": "e350b95e55d71a0270a3f3a3d7e6173dd4cda860b0f9df70b0dff930855b0fd2",
+      "digest": "c73e6f7e9e681f79393f272e5d304c5c7294fe766a95583a29ea1db4c0015287",
       "url": "https://json.schemastore.org/remarkrc.json"
     },
     {
-      "digest": "80db2b4b1dfc6bd362d1179302e60a73cffafc544d0d4fa39e334531167051e7",
+      "digest": "92c5ab741061ed44ec350438de7dd4aa997a14b153b2995c18005931f4329e48",
       "url": "https://json.schemastore.org/resjson.json"
     },
     {
@@ -1238,11 +1294,11 @@
       "url": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json"
     },
     {
-      "digest": "0381bf590eac26523f84d57b867d98d098770b9b5e3293149d6e49a0bc516be2",
+      "digest": "8642cca248d0bd9cf389224061b8f74fc48619bfb7678c5c543f65923f923bc5",
       "url": "https://docs.renovatebot.com/renovate-schema.json"
     },
     {
-      "digest": "9a8332cb98082e35db193bc405ef0ef163b41158320f2050305d06ee2aeccb34",
+      "digest": "4767bb8751358f2f22c2783226b1ee51d0a36beca4bcd37a8a64d61b54fecc9d",
       "url": "https://cdn.jsdelivr.net/gh/roadrunner-server/roadrunner@latest/schemas/config/2.0.schema.json"
     },
     {
@@ -1250,83 +1306,87 @@
       "url": "https://raw.githubusercontent.com/sapphiredev/cli/main/templates/schemas/.sapphirerc.scheme.json"
     },
     {
-      "digest": "a42543f0a34d02d14a907e974f6d60ff2caef884f5ec971038a2a4f2e0cc86c7",
+      "digest": "788163505630723337f3a8a03a2f678b0eaa06c21ac372adb136f70216c52928",
       "url": "https://json.schemastore.org/sarif-1.0.0.json"
     },
     {
-      "digest": "ea263bda2dd12c9d84860f62703ddf3877475fe24b094bc0e8b263656996fd8a",
+      "digest": "03279f03cf6f2c2b6c3f136b2f03dd5a8f43ea91deaa9c61b12e9e34f9bd01e2",
       "url": "https://json.schemastore.org/sarif-2.0.0.json"
     },
     {
-      "digest": "9b71167a15941df1d7d2e08efadb8f3c4e72c058986d6e1be170f9038ee4d255",
+      "digest": "20fe0f3cd04617ca69905279a671c94769e795a23215b2b3c32632df331b91fe",
       "url": "https://json.schemastore.org/sarif-2.1.0-rtm.2.json"
     },
     {
-      "digest": "b067a92cea41643ba155ff6dae828d4f876ef75e2ed51d9b3d07e43e73851cad",
+      "digest": "8a85c5e418ccd7f0d70f468e27422dbb8d736e909315a4936eb63f5485afef96",
       "url": "https://json.schemastore.org/sarif-external-property-file-2.1.0-rtm.2.json"
     },
     {
-      "digest": "9d95a37f6ffa906f9875b0e45f2053cb8d5fad9f2abd0eb847e4ddff4ac9c885",
+      "digest": "04387bf0380f4e00dfba89de2be67b2b2a2c22d4700f7130e3ca973577d7f601",
       "url": "https://json.schemastore.org/sarif-2.1.0-rtm.3.json"
     },
     {
-      "digest": "8c5356731696316b357a9c58d85a63e566eaf69e61c46ac1860e7f6dc55c82ed",
+      "digest": "a05ed49904025a479ef9a0cb4b0a99494a63cc53864b7bfccf2068f90bd0d986",
       "url": "https://json.schemastore.org/sarif-external-property-file-2.1.0-rtm.3.json"
     },
     {
-      "digest": "b2452bef9d25490f9cc2c12504eb463f1bfb5fdbdcecf600a7fa2fb2f8f21348",
+      "digest": "8f0bd2c03de187df1023bf87fabc8dad68c7d86589eee2a5097c7f7bc5a32596",
       "url": "https://json.schemastore.org/sarif-2.1.0-rtm.4.json"
     },
     {
-      "digest": "276a9ba1b24b4a0ccfcd072e59380a33ff9ae16fbb713a4730640e1b70a2b7d7",
+      "digest": "7a6d61762dc48f1d8b5af3ef4d9c17077f4143795cec3dbf7755749d1fb052d9",
       "url": "https://json.schemastore.org/sarif-external-property-file-2.1.0-rtm.4.json"
     },
     {
-      "digest": "547bf3f0496bb5a10e4e44262f6d87c7fd0c8ee037f8423aab94054955a48d53",
+      "digest": "ae3bdde62ed05165daa05f372dd5ddcb2896af413236571fa3dddcdb68f6d826",
       "url": "https://json.schemastore.org/sarif-2.1.0-rtm.5.json"
     },
     {
-      "digest": "0ebfb633bd9b2a2cf7c00da7f877e03a0e45a53d24a5a8d696bc570ea34640d2",
+      "digest": "ff27f116bc7c9f1306784462912ccda54a67ac4ad46295d45bdb8cda8d70b9cf",
       "url": "https://json.schemastore.org/sarif-external-property-file-2.1.0-rtm.5.json"
     },
     {
-      "digest": "7402cdfd5bfbff98071b3358e573041b86adb7e1c6ec8743303f93715937c371",
+      "digest": "03b3c591cf1a1a87c5e29119785ec9671e07a38f5f5a761d2deeea0e07faa738",
       "url": "https://json.schemastore.org/sarif-2.1.0.json"
     },
     {
-      "digest": "0a3bc9c28967b5d511c4744e142881d37610f12bd6938224ab2088ab066ac48e",
+      "digest": "e800b448020b368c29f3cae25b9c906b1b2503e01688725b13a197103bf39365",
       "url": "https://json.schemastore.org/sarif-external-property-file-2.1.0.json"
     },
     {
-      "digest": "8a450376baee16c2adcb80af2ce160a4214fed2ae687f64b07cbd2f365f1b00b",
+      "digest": "2bd5c5132d8421e80f02e37a7bba9cb5b89e203e1205d94480935056dedb7a9d",
       "url": "https://json.schemastore.org/schema-catalog.json"
     },
     {
-      "digest": "9c8ebae67d51171940e9341e854281f1e30e8339ebf351919822ce13eced26ff",
+      "digest": "07130ef279f295d8bd8f7bc6f9a587cb80225394ee141e0d907f4a78a6529915",
       "url": "https://json.schemastore.org/schema-org-action.json"
     },
     {
-      "digest": "d63e8f9e1df423d6f09d51292ca49eba9d65223e4a5ef1cb8c8c8279537afa48",
+      "digest": "25d1764bb3a007c6bb1cbfaa3dae2632f6a9812127b405a60f65da956b10ab1b",
       "url": "https://json.schemastore.org/schema-org-contact-point.json"
     },
     {
-      "digest": "d173bda78ed30e9cf814cee7e55be5cf985e22226ff57e44c6d84126c70e1aa6",
+      "digest": "d6dd09ce01c8f1ae43709318794ee561c8b25f841b482b2dfb4787fcdeda6784",
       "url": "https://json.schemastore.org/schema-org-place.json"
     },
     {
-      "digest": "fba6556a885426d02b59991a71a0d8ec9a5e7b5dae7f0b7f97d01ac607661a61",
+      "digest": "0e3b25a0a1965098c09602d295e0aa6c8d7ec913798926d16b8693162d9ca9c9",
       "url": "https://json.schemastore.org/schema-org-thing.json"
     },
     {
-      "digest": "4042dd13695cc27d0132034f08ccc1a51274ba766fb0a033c02c8e87830d4be8",
+      "digest": "a0de1d274816c836374f57d335b595cdbab9d0189230a4c675e4547e56b57323",
       "url": "https://raw.githubusercontent.com/lukesampson/scoop/master/schema.json"
     },
     {
-      "digest": "d1bf25640512af991d9021bf6a9d9cd9002fd71a5a9fb5d7aa7721a34f96df00",
+      "digest": "0273f9c4ca7e281af91ea9fb150f14c7e0a581a678d3fb336de799567de4f00f",
+      "url": "https://json.schemastore.org/semantic-release.json"
+    },
+    {
+      "digest": "ad0282e0e09b59ac715bdadc3a619df7ea6f84c80a27573adee1519c002e2492",
       "url": "https://json.schemastore.org/semgrep.json"
     },
     {
-      "digest": "82c20da001d99bfb0b71550e5091fc768830bef661f3972da3a87a77e8202a72",
+      "digest": "50cebce39980a5272059d940c9bc4d1c2bc65b4ea4842d52479a15a7db1a26fd",
       "url": "https://json.schemastore.org/settings.job.json"
     },
     {
@@ -1334,11 +1394,11 @@
       "url": "https://raw.githubusercontent.com/qualisys/qualisys-schemas/master/paf-module.schema.json"
     },
     {
-      "digest": "c0607a4003d07af3e37df34333cf9d8b23fa43c76f1d9dadec769f26583b7ff9",
+      "digest": "451d69144e43e5b8b7f21b83c79d8a322835ca93a9bc791c00bcedcd41dd70fa",
       "url": "https://raw.githubusercontent.com/hardisgroupcom/sfdx-hardis/main/config/sfdx-hardis.jsonschema.json"
     },
     {
-      "digest": "6cb388a00dee7839966ff68c3c592721e88b3abd7a9eac6c453e962106773708",
+      "digest": "ded5e93a6e66059a65df4391a9f27518836308da093fd37da86d0f50df9b6419",
       "url": "https://json.schemastore.org/size-limit.json"
     },
     {
@@ -1346,31 +1406,31 @@
       "url": "https://raw.githubusercontent.com/blackbaud/skyux-config/master/skyuxconfig-schema.json"
     },
     {
-      "digest": "4f6d784b1e9d4f9a82c5bbb132ce720e30bbb8aec5eff4eee33d4ea0c035b0ce",
+      "digest": "341ebb350cd672879eff98cdf3ba4e6360215ad98961770c6be00b78cf23a308",
       "url": "https://raw.githubusercontent.com/snapcore/snapcraft/master/schema/snapcraft.json"
     },
     {
-      "digest": "c0c23cfd6cd37690f5c0b3a717b33d55a770a0cc7159f34fda4a79fa3f78d6c2",
+      "digest": "9d5f94021e21c9e5bdc26f74ae349dfc63d697f3ec42a3818dd06f21eab19f29",
       "url": "https://json.schemastore.org/solidaritySchema.json"
     },
     {
-      "digest": "eea16d7b157b2c6c84dc34d8b2dc8d414d72ca2e4459687e61a34a8fb32d8aa6",
+      "digest": "0df5cd4a683ad696d3ddae02f643a86aa0ca3feff0a4ef552f70b2de43f2bb7a",
       "url": "https://json.schemastore.org/sourcemap-v3.json"
     },
     {
-      "digest": "3704162629a65bdafb9897fad99930270b77e04678ce1f218131b2409ad3f476",
+      "digest": "011d3cbff29356e13f5d391a243483a2031262bf42370b656c1eefefa79815e8",
       "url": "https://json.schemastore.org/specif-1.1.json"
     },
     {
-      "digest": "0eafa77e4e3691e214a34b6afa3f3a02373d5b4e801daaabc7fb329cbc05c45f",
+      "digest": "594e238f6d65d7938743045b503ac3982564151b78f100023555d8e4d300ce89",
       "url": "https://json.schemastore.org/sponge-mixins.json"
     },
     {
-      "digest": "ef5a5ff818c8001cf628d9b373873386fef9141b35c9c979f874ee509af9d34a",
+      "digest": "98f68bfafb6646c5f2ae4bbd39a1f702b661e66a5cf80449b6e2037357393894",
       "url": "https://json.schemastore.org/sprite.json"
     },
     {
-      "digest": "6f031bdb67e92956609cfebbe160ad434f6821c693b6ddbbad0683862cb07a4e",
+      "digest": "0e0688bf346b5f7b1fdc0d2fdb26c2153864d0f55ef3e4732929a62f1448ef25",
       "url": "https://json.schemastore.org/staticwebapp.config.json"
     },
     {
@@ -1390,7 +1450,7 @@
       "url": "https://schema.stackhead.io/stackhead/tag/v1/-/project-definition.schema.json"
     },
     {
-      "digest": "dd5878057af3e7fb83a494d49fe3bdad0a0468b0aaf9616ce81730f380f4fe1a",
+      "digest": "9c8df919a32823cc9065276e580445dfa39d3a2c4f8215d9e98af3ca21d709c5",
       "url": "https://json.schemastore.org/stale.json"
     },
     {
@@ -1406,28 +1466,32 @@
       "url": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json"
     },
     {
-      "digest": "0d3e693483152f6c47993f216c1ee937e7566de14fae73ec16eb1345522dab48",
+      "digest": "89b00a2ea43001daa6e502a0ee5abfdec5bf36337d4ae3bfeeda90a059c691e3",
       "url": "https://json.schemastore.org/stylelintrc.json"
     },
     {
-      "digest": "c0503d077c9c8e9d00c7d09db6912c7f53723b67852e6a1d3924f9c2368cd5dc",
+      "digest": "5cd54c8f8a3c40f2cc4ddd7ea8cf1b2d8ed85f55fc2a90a3e8623b228a6d5a67",
       "url": "https://raw.githubusercontent.com/SymphonyPlatformSolutions/symphony-wdk/master/workflow-language/src/main/resources/swadl-schema-1.0.json"
     },
     {
-      "digest": "e908ef30fc1fa8613a8ed2947fe7cbbb095994ea670e8f91aa1874d034fe9488",
+      "digest": "c67c4c55bc6ff3e57b7c971343f8f334da9293d04cdb57d02a07377350828ac5",
       "url": "https://json.schemastore.org/swagger-2.0.json"
     },
     {
-      "digest": "803efe13aa7ddb8890165fa70091c2b1d54b859e2a46a0d72a028c3575f2ecf2",
+      "digest": "cb9e00edc97d88855af737fa0518dd7de912cca0540a3fe28272ba06a2f1b58f",
       "url": "https://json.schemastore.org/taurus.json"
     },
     {
-      "digest": "2655e2e452242cf3c27eff574cb79ea80d7fb6f1b569c6c641fdf656e57e7c87",
+      "digest": "613d3cc02c41ad1ebffb6f256c92d657ecb06a43d863f7a7bbc20035248baf81",
       "url": "https://json.schemastore.org/template.json"
     },
     {
-      "digest": "abfac953bc9c84e364d2744aa6dda0366056863becbb76693a178e2eb65c3994",
+      "digest": "c9b9108028122b29aa8add0a29671fad2ebd2d95c556d6f414ec19fa780c1b1e",
       "url": "https://json.schemastore.org/templatesources.json"
+    },
+    {
+      "digest": "7c7ae7f567b21c3fc7741b1466d70fafef9343d83192a7531ae990ebbe4e5669",
+      "url": "https://raw.githubusercontent.com/kevgo/tikibase/main/doc/tikibase.schema.json"
     },
     {
       "digest": "1656859edc4bf921645e58e0ea68bab6f94be4745cbaa9aae0dc4b310061909d",
@@ -1438,67 +1502,67 @@
       "url": "https://raw.githubusercontent.com/Septh/tmlanguage/master/tmLanguage.schema.json"
     },
     {
-      "digest": "33290c08a24ee10fa396b6dcdbeedfd91241fa5971a62f730716680232ae5e96",
+      "digest": "217e888c97c58cc1dd710b8c47af6d4227c1a0888a194c19ecaaeec57593930a",
       "url": "https://json.schemastore.org/testenvironments.json"
     },
     {
-      "digest": "63df0645545a8687c7895e155e1d6ee2aa89833963f3b753b42da764cb8a9635",
+      "digest": "e5c7d947a0786457e085326a79d7405337573fd23c6e0f0cf0b98949d01d7d1f",
       "url": "https://json.schemastore.org/travis.json"
     },
     {
-      "digest": "41323975dd653fd7512381202d5cd18cfe8fdcd8e0866458c91f240fb77ff295",
+      "digest": "8e0fc3d3a0cde45ef20da637358c88de5739895c78c37ec73cf4e83876ce49a5",
       "url": "https://json.schemastore.org/traefik-v2.json"
     },
     {
-      "digest": "6d16093e71f4c5652f91265984ee9ab91a540bf72130e6ffa2c55968b13cff0b",
+      "digest": "fb90b1b8b448f63abf40483ca5018c223c81c675d10e4bd964e82ccbe6039b39",
       "url": "https://json.schemastore.org/traefik-v2-file-provider.json"
     },
     {
-      "digest": "c743592602932b05b30425b7f585475102aaef127299ad748a3dbdf2ac6ef9af",
+      "digest": "a8d0e985c7e60061a25e23ac0a9c447a393d62f6d505d8f9e4e10661440cf282",
       "url": "https://static.trunk.io/pub/trunk-yaml-schema.json"
     },
     {
-      "digest": "c37900fd085d2a0a60f0f41224f36c3411d1fe279ea28c4867aad046f75c17d9",
+      "digest": "aa6ff917cfe96ca1e119e8f04b9eb6d10d8376667b48e5ec593308910da54ed5",
       "url": "https://json.schemastore.org/tsconfig.json"
     },
     {
-      "digest": "dc1e4949570e093db4d81479e8760851ef7a76d776f8cbcd65d70ced6eecc6a6",
+      "digest": "5bae92f8c448701498de69a76ed4e49dd8272881175c39e2c5a1d626b1ce9571",
       "url": "https://json.schemastore.org/tsd.json"
     },
     {
-      "digest": "f89b6b8125e245aa6984407808a4c71a0a79ad4bc490e6bb9805699f1479e5fb",
+      "digest": "c972e506e565ee48cc451da7ba72d67d33338b20bb3d670e209edc4663ad6a90",
       "url": "https://json.schemastore.org/tsdrc.json"
     },
     {
-      "digest": "1cad15bd39d610a3b15acdea6d68415dedc9739f684ef210f96444426473fd7b",
+      "digest": "f6244a87588ed4538348cc3ef847fe7678e6f014b48f3cd4828ee82e83894bac",
       "url": "https://json.schemastore.org/ts-force-config.json"
     },
     {
-      "digest": "aff84e80a1468bc73d3241a390803cd852e183ca585ea2f0cce774a47afc997f",
+      "digest": "b817333be73e31f2da9774d2fe2f50dd51dda791f8761f4f11b67ff0babcf77e",
       "url": "https://json.schemastore.org/tslint.json"
     },
     {
-      "digest": "9ae2f96a1034453ffec873c5fb269bee339be2b341ef5b3b13b3db3feeb7b9be",
+      "digest": "47042aeb108f38c95b1b17566e3b5476cfc937fc3dd5b9d037f3b2f53217d5fc",
       "url": "https://json.schemastore.org/typewiz.json"
     },
     {
-      "digest": "e74decfd7e58cb40c0ae43c6ac0eec8e2428862fd73cc3b243906c3c0867a620",
+      "digest": "c3a941f0ea3f82eaae4e39d3734fea5082bf6eef08aad21454b125200a6e2829",
       "url": "https://json.schemastore.org/typings.json"
     },
     {
-      "digest": "0eeabc1ee6ff4b11c04f6363dd8ad7d7319584ac11049a21dcc4e70d548d2b94",
+      "digest": "015f1cd6d5d167abe4d450f03b0df50f511cc7725c36892ee41cb0c3e8edbff4",
       "url": "https://json.schemastore.org/typingsrc.json"
     },
     {
-      "digest": "a2b5513b540dfbb5f14e35de840979f4cf906cb13a714a792a0ab9dd1dff35d8",
+      "digest": "85602d887e628a92fa1b2d8eaf5a9da559c2e1d48336aa2a91fffb8ab326a172",
       "url": "https://json.schemastore.org/ubuntu-server-autoinstall.json"
     },
     {
-      "digest": "67f2dbe64fcc3dfac76adf5946270db4631076145de9505288c7320acaf98d71",
+      "digest": "aa66422447c8688f8451a37c2d38d88aa70646212ce6b92d819d749d9106579c",
       "url": "https://json.schemastore.org/up.json"
     },
     {
-      "digest": "aedec0445e65f2e1f59a480ba2ac4d8a65288283dc97db1043970a807d0a0d52",
+      "digest": "a8e6138d14e439d5cca14ad26b937119148ab6a7e92b93e097d4859877cb584a",
       "url": "https://raw.githubusercontent.com/SAP/ui5-manifest/master/schema.json"
     },
     {
@@ -1506,11 +1570,11 @@
       "url": "https://sap.github.io/ui5-tooling/schema/ui5.yaml.json"
     },
     {
-      "digest": "618ad064f99bcdc5556897847c08b4071d539ea43fd73970cb5cc1f42c47f95e",
+      "digest": "809dca64d7433b8bf355a2d075eb29fa88f0e0e4db7a0b59f39760ed83d23809",
       "url": "https://json.schemastore.org/vega.json"
     },
     {
-      "digest": "d0a0eeda64c071aef6fb6c4b5f7e4f9fa77a24752f9ed90ace07cfa75ff2150b",
+      "digest": "7448ae04b45c43a11d642d4293c17542a956dcec46c85185b8c906533b3d8ab5",
       "url": "https://json.schemastore.org/vega-lite.json"
     },
     {
@@ -1522,59 +1586,59 @@
       "url": "https://raw.githubusercontent.com/dotnet/Nerdbank.GitVersioning/master/src/NerdBank.GitVersioning/version.schema.json"
     },
     {
-      "digest": "2d1525756e2b62a623964b084a644cecef9d9e1bff586029524d4a5be9fb78b8",
+      "digest": "c0a1a4a22464786435d9a3f0e05a69d2d806fdd9a76d7991567d9b849b023de1",
       "url": "https://json.schemastore.org/vim-addon-info.json"
     },
     {
-      "digest": "a7124fdab06d374e1656839a51189f2873cc2109af514689a2bd5d2b96f01ed4",
+      "digest": "5e38e21457d94c0f4bad2414a2332d1d1e3489fac5c91a6590389f00f8082082",
       "url": "https://json.schemastore.org/vsls.json"
     },
     {
-      "digest": "43b31adbbce668bc747139d9561959bad6db0607572fbf7f9125d914d4b8d884",
+      "digest": "bad7f8ce5ae99a4265d1c8793fd1e3e6e1af42f4854bd8605388214c8dd65072",
       "url": "https://json.schemastore.org/vs-2017.3.host.json"
     },
     {
-      "digest": "c3fea938e6ad0074ce651a87051cc9caf6be8eae96de9c3c27b05d9d893d833a",
+      "digest": "781a5e7cc0799c1372d128094d0b04a08a417abecfd417578cc6e784620be23c",
       "url": "https://json.schemastore.org/vs-nesting.json"
     },
     {
-      "digest": "555eb9126437cb2f6e654119d2a507444ba4f0f158d5683ccb40223ac8dfa57e",
+      "digest": "1a317b32fd103c8ce940b05ccda109f7015bc28ba0100f1b25a271692cce52fb",
       "url": "https://json.schemastore.org/vsconfig.json"
     },
     {
-      "digest": "1e94145d72fd298e5241132d720ffede621386955075d3a48202358511786778",
+      "digest": "2471bde261ae268af83711cfc26ba5ff58a788e3294db0bb720928289648bb76",
       "url": "https://json.schemastore.org/vsext.json"
     },
     {
-      "digest": "16f62114d20f85ae927ac411b8c470bd438f64eec639b2c3b1f13b274f8d89b5",
+      "digest": "f3833c0c45c1ff2a6b06855d2aa4a1a5f593261aaf11ac22d48230d20e57cf93",
       "url": "https://json.schemastore.org/vsix-publish.json"
     },
     {
-      "digest": "968c4b957c5058cffe58b63600a17c6b33166c4a9fb622172542e759c3f3c850",
+      "digest": "8b7020e8dd16b20df7379307ecd4bdb985d668bbc0011995f41a921aad163e9e",
       "url": "https://json.schemastore.org/vss-extension.json"
     },
     {
-      "digest": "aa02b71502de22c6ff5e03f5857870e5dbc2bb5d930dba11e40cf8b62a0b0e0d",
+      "digest": "8e0ae6b7d3dd3ebfaaa5a64c3ad778220a1a05b63ce56ecec7fcf570ad76c1f2",
       "url": "https://webcomponents.dev/assets2/schemas/studio.config.json"
     },
     {
-      "digest": "fa58b29f28efdcafa1507561693e85d192ff3a4fba7ae260cacda2587afebb59",
+      "digest": "db6b2f04cef8e8b433f4fa2a66893174c4d740f10871571d0398891a13784cfd",
       "url": "https://json.schemastore.org/webextension.json"
     },
     {
-      "digest": "760d0c609b860af776d4bf227101b6b85ad07c5daa0bfb7e328efe94c0dffbeb",
+      "digest": "07c485abef794d90a8bd785c15f3325e80640d519fd713f3433d71066ea43c93",
       "url": "https://json.schemastore.org/web-manifest-combined.json"
     },
     {
-      "digest": "da7ab2a70d921d8897bfe66d3dc22a946b6bc23f21468c9aa9acd465ede32689",
+      "digest": "d52d9b0fae37f50318e4142ce0d668f5cf8fa621ecc3bf2dc56f2b35e911e292",
       "url": "https://json.schemastore.org/webjobs-list.json"
     },
     {
-      "digest": "e4ab30d6faf03957ef4fae4f59952f2cd88258d0fa2aca2603c919d964caff0b",
+      "digest": "29439473e28283b777b6ddf42f969e0c7aa1d196cc1e2f621db9c8b3b09f96bd",
       "url": "https://json.schemastore.org/webjob-publish-settings.json"
     },
     {
-      "digest": "52c1cec6319cb126832980a99fd35edb0de0aac85bc60de4c26d6619d4250af1",
+      "digest": "6b3f50da0d62f2d9301372273aec58e4d5d414431c66f52a414ed966a96031a5",
       "url": "https://json.schemastore.org/web-types.json"
     },
     {
@@ -1606,79 +1670,79 @@
       "url": "https://json-schema.org/draft/2020-12/schema"
     },
     {
-      "digest": "3a8721d194e2cec02570fb604706250c498fc8624d639272aae14d268a3052ca",
+      "digest": "e7a5fa57e4a457da755f95d17501e17b75dcd4dbc7b865e11c0e623a796152e3",
       "url": "https://json.schemastore.org/xunit.runner.schema.json"
     },
     {
-      "digest": "f1f892e1108aabc8f7f168905eeaa55c2a6cd169943e19b85c9bced07139e299",
+      "digest": "db91c3c2b9543d8bc546189d16c371bd14dc6c457d72b6ae049ff50a795765e6",
       "url": "https://json.schemastore.org/servicehub.service.schema.json"
     },
     {
-      "digest": "953a5a72514da82b0db5af98389d752ce05134fc77abda42b31d4104aa06050d",
+      "digest": "d8bfd257d06f5e3ff34a94681b9c21898cc8192fd5fcbcb5d66d92814f6f2010",
       "url": "https://json.schemastore.org/servicehub.config.schema.json"
     },
     {
-      "digest": "5b11c9198afaebbcf1279b426d1253ac943c16a2d86afd28675c4502f4471519",
+      "digest": "2a23944c67616d445125a5d0ad1178466ecad62c0254e36fb4d88f4b34223f54",
       "url": "https://json.schemastore.org/cryproj.52.schema.json"
     },
     {
-      "digest": "3264a57e8e144efa4bf980ee5e1e4d4a9dafcca8374c2e9b3a69b4252482155d",
+      "digest": "25dc406130b0038dd13a0154494f713257dd32b610804ca10ba7319e3b7b0761",
       "url": "https://json.schemastore.org/cryproj.53.schema.json"
     },
     {
-      "digest": "9c0e6cace6d014f7541eeed5a14e3a7725eac5b29ddcaaa4394bdb9219e1bf13",
+      "digest": "b59cee1c383a30eff41d602fa261f347c039c5b4434c8213a9248725ab7a6a17",
       "url": "https://json.schemastore.org/cryproj.54.schema.json"
     },
     {
-      "digest": "68e59d4db1deae3c79b1a6cdc7eb61b9fe84366364da7f805c807376f6efb87d",
+      "digest": "fada6ca8dae9a0d5ed9d7f4e8252247773a2b2556c82d09e3f9eaf39d902ac7d",
       "url": "https://json.schemastore.org/cryproj.55.schema.json"
     },
     {
-      "digest": "709fdbbb8fcf33752771f1d5a9510939e33463665fabbc11bcb6f95d864f03d1",
+      "digest": "5e993453a6b571c1b03a4a98e9665cb0cc154ebcea3cd6ffa472413573fc8a0e",
       "url": "https://json.schemastore.org/cryproj.dev.schema.json"
     },
     {
-      "digest": "6bd3ffa778a98ecab1907515c9fd669082481b7415c894f007355f9721c9ecc0",
+      "digest": "086ad26c82088200b419d4db2e12c95fcf4ebb7fed6ee5fcf8a166e57b84c30b",
       "url": "https://json.schemastore.org/cryproj.json"
     },
     {
-      "digest": "5fe89ff2474b62b331773fe9124cb7a95877b801bcb4d35d8cf05bab9bfb4336",
+      "digest": "3fca37e1be17a871bc1b17cba2a12e158d0ad3352185322f93e7ea7285d0b742",
       "url": "https://typedoc.org/schema.json"
     },
     {
-      "digest": "6b53f9f2accf2b3205f07ae14a45457933b5e5ea3c1784ab6ac2b10b1ea5c96a",
+      "digest": "3f15a27e862de86729b58278e5b8b2284108dc7c00aef201ca3411877ce4e2e1",
       "url": "https://json.schemastore.org/huskyrc.json"
     },
     {
-      "digest": "2535f484164380c77b6b74b736b5ab23aa7505dbd1dc4caa335ad1dfd851eabc",
+      "digest": "fde9d2c40821fc6555c328128ab8ce751cc7a93d15aa3ff6500049c02df1f8c0",
       "url": "https://json.schemastore.org/lintstagedrc.schema.json"
     },
     {
-      "digest": "f804a65d483fc72fd485a501786027841f2e51d4fcf5bb5120855f7354380ac8",
+      "digest": "16baff7ba58aaf8572f9660bc6448a959a79b7522e494482fe2114d5f95046c9",
       "url": "https://json.schemastore.org/mta.json"
     },
     {
-      "digest": "768acc503f525482ffe60d1248974d4e5dac874090284095ec60cbc97387b764",
+      "digest": "70a8039209aa50c244d5148536680fcf63fa4749113ffdedd54a908d38e4e4d0",
       "url": "https://json.schemastore.org/mtad.json"
     },
     {
-      "digest": "46708d3b3f48cbfa57707a87b5491699d95f6aeda26029ab73c6983808be2caf",
+      "digest": "25172e8a7a88625336be72f92f5c5f43e7039daa5224e195c5fb3657bbf077ed",
       "url": "https://json.schemastore.org/mtaext.json"
     },
     {
-      "digest": "b9654aa2f523d4c11511c4ac895ea03e80dc54bf41585356ca5824d5d805f747",
+      "digest": "053974c3dfd6a3dabf9376864b9f6441cf361c3f0785e764c4eb69fff1ac080c",
       "url": "https://json.schemastore.org/xs-app.json"
     },
     {
-      "digest": "529599a2600e89fdfabd6e51922b12c944486b685c764e0c766e47ea887c359b",
+      "digest": "9bba64f5c9cc7c00466fcd12cc00ccf60eab589b0c3300c4191a3823ac2f799b",
       "url": "https://json.schemastore.org/opspec-io-0.1.7.json"
     },
     {
-      "digest": "6b0c59268f81d3045aeb487ca2df5818e54178a11c7e32e78cac68c92644db37",
+      "digest": "338004a2766907f4399d1ba343867d666a5240dc62a84a8df6eb46f597712ab3",
       "url": "https://json.schemastore.org/hemtt-0.6.2.json"
     },
     {
-      "digest": "694d9593fc8bd8cdf597da026d51e773712e8eb3e0b2391e93c1a9a1dd2a964d",
+      "digest": "6cb9699ebfd45cec96a04dea8c5ed879e7545a0519ad26e290803842e150acb0",
       "url": "https://json.schemastore.org/now.json"
     },
     {
@@ -1686,11 +1750,11 @@
       "url": "https://raw.githubusercontent.com/aws-quickstart/taskcat/master/taskcat/cfg/config_schema.json"
     },
     {
-      "digest": "3efa6ea67e0e3c9e607f945da1d244aa2527ff59d3268ca511e0a2b8f3475155",
+      "digest": "b45a7e37e5eb5b7c6c4abd50bee0d9d477a425d6de40e82ffd986fa0893c79f3",
       "url": "https://json.schemastore.org/BizTalkServerApplicationSchema.json"
     },
     {
-      "digest": "f47313bf628cb72a974002e80e7e33723aa27cbd1aa976a7f7532053e6c61117",
+      "digest": "7af33ce140e36177284e82fb355a9cac4e5c54e7a9efc1a395733a124481feeb",
       "url": "https://json.schemastore.org/httpmockrc.json"
     },
     {
@@ -1698,11 +1762,11 @@
       "url": "https://raw.githubusercontent.com/Neotys-Labs/neoload-cli/master/resources/as-code.latest.schema.json"
     },
     {
-      "digest": "7f453b60f1aab9f3c588844f4fbceba25fd3c1090ab0e799d6457ed0f52f0b20",
+      "digest": "9d6ce9d2a19e897b210bcc56bd301edfc0794f9eac21db704c51f446fc64b068",
       "url": "https://raw.githubusercontent.com/release-drafter/release-drafter/master/schema.json"
     },
     {
-      "digest": "837e1fc29fae7d3ed0e43263a1f8aa9c686df4535bd3941ad72dca7f7a6d3cf8",
+      "digest": "4726a4ee5a6d451af8ed8fb4df88fe292830a550a049e8bd4764c29265ed0b64",
       "url": "https://json.schemastore.org/zuul.json"
     },
     {
@@ -1714,7 +1778,7 @@
       "url": "https://raw.githubusercontent.com/ahmadnassri/har-schema/master/lib/har.json"
     },
     {
-      "digest": "4660d8cf052e51c7ae778a4a75484c71571a119c7f3b9ae20f88671419d29621",
+      "digest": "b8b7f6dd8f588c38a7d5aed2c6521ef1e7926a0a9656e3dac20d2067cb50abbf",
       "url": "https://json.schemastore.org/jsdoc-1.0.0.json"
     },
     {
@@ -1726,11 +1790,11 @@
       "url": "https://raw.githubusercontent.com/hadolint/hadolint/master/contrib/hadolint.json"
     },
     {
-      "digest": "03c80d64fc54d68659b2e041c3cd5f4627f7b30d6112532b1d905bc03e3281c9",
+      "digest": "fb8190507f6c45f928d81b565c37bf0dbc14eefc34d5ceb028483811cd46d9cd",
       "url": "https://json.schemastore.org/helmfile.json"
     },
     {
-      "digest": "4d941d58a57dae96fe87a572ffed3c27652be2c5fc477d4b8ab559a0b6e0f438",
+      "digest": "3a834cf04016502625822c6a1e959d635cef510fb544f6f53087a198926a1efb",
       "url": "https://json.schemastore.org/container-structure-test.json"
     },
     {
@@ -1738,19 +1802,19 @@
       "url": "https://github.com/fbecart/zinoma/releases/latest/download/zinoma-schema.json"
     },
     {
-      "digest": "324916f8eb47862034a1e1e4c0749adeffc68b9ca8900472ab66b2c896d0b79f",
+      "digest": "26abf83a1e7191ac9a283845d21df16651dcbf6b68b6cecdf2de064e8b035133",
       "url": "https://json.schemastore.org/winget-pkgs-singleton-1.0.0.json"
     },
     {
-      "digest": "326ac6a99c2671f57748113ac0bafc9d8628f21e7bfe9c48e5691dc9329e05f8",
+      "digest": "117bcd6363187dc472c41bd3f70eed505610c6b0bf7cd9372656868ab7151995",
       "url": "https://json.schemastore.org/winget-pkgs-installer-1.0.0.json"
     },
     {
-      "digest": "1fedd3d2af75ae9747c4763697c2bef3a5ad7b793cf92735297a1573f153e24a",
+      "digest": "8bed84ce03b201bc87ebf869904498db06553823f72af4e33728abba34defbbf",
       "url": "https://json.schemastore.org/winget-pkgs-locale-1.0.0.json"
     },
     {
-      "digest": "7fd00a2083d850ea1a73aabc3824aa4749441708f5524ec240843b8477a5058e",
+      "digest": "9cb5b58bf80fa3939606616d897965fb30c2470db976a9997aa4a1c1f253bf15",
       "url": "https://json.schemastore.org/commitlintrc.json"
     },
     {
@@ -1758,7 +1822,7 @@
       "url": "https://uniswap.org/tokenlist.schema.json"
     },
     {
-      "digest": "2239086c5d74e137bf832dbe0ac91241cbe43abd19037a83f34b6e0a92ecea3a",
+      "digest": "3a1edd1f5967150b38499b838b19e1be8400ee016bb5689b59fcebf998a37766",
       "url": "https://json.schemastore.org/yamllint.json"
     },
     {
@@ -1766,19 +1830,19 @@
       "url": "https://raw.githubusercontent.com/nagyesta/yippee-ki-json/main/schema/yippee-ki-json_config_schema.json"
     },
     {
-      "digest": "941afac087064a9c11648d12c2c81f137f4e1c5d0a3992349865d1f7def86550",
+      "digest": "9f3896f680fed4a32609da4c2c003c70d5609f3666a9733744578e0239879533",
       "url": "https://raw.githubusercontent.com/compose-spec/compose-spec/master/schema/compose-spec.json"
     },
     {
-      "digest": "b05693508463413547ba5950c6a80a6067a7eea1fb30bfca3fa24ab758d138d7",
+      "digest": "703bacad3a4416e7c3a39da1030d1742421bf7f80b495952320504f36cbc56fb",
       "url": "https://json.schemastore.org/devinit.schema-6.0.json"
     },
     {
-      "digest": "2a2b979e6d155c3b4261fdd803372b4e609f7aac1d2985515d28c8b82befd745",
+      "digest": "6a59bf417c3d67467b380a2cf78407b4e36151fc172c06f3923e15e0af8a6034",
       "url": "https://json.schemastore.org/tsoa.json"
     },
     {
-      "digest": "867da29a7eb9e0f173459e898fc005c7d96d926fed4efd1c439b44d6ae5b9a95",
+      "digest": "e90d4106b9e0564d86c97b27dd76242e9b68dffb5042effdd134d72e3ef8d6a7",
       "url": "https://json.schemastore.org/apibuilder.json"
     },
     {
@@ -1798,39 +1862,39 @@
       "url": "https://beaujs.com/schema.json"
     },
     {
-      "digest": "165bdb174f0f7a0b6d7f576c82f33bb70b286d2caa22cfe43f51d5ddaf10e314",
+      "digest": "2fa19f3dd0602de08639fea487216fd141d0dad12ff8b4fb5f0b2868e0062eec",
       "url": "https://json.schemastore.org/bettercodehub.json"
     },
     {
-      "digest": "898130337b2c4e0fe51eea072baa01cc335f57e4aa01db3b931aa41f9d9ffd37",
+      "digest": "a35421e041e5c3d7cf0132b6add5df7339e3147a9c6568f5cf216635f6cc1259",
       "url": "https://json.schemastore.org/comet.json"
     },
     {
-      "digest": "98b0bf2c08043a9ef3a36b50e5666bc6ecc2abc94b45fb3cbcd77713b2207e5f",
+      "digest": "6f1ba8ccc0ac53a148f0ba4136c5b47aaf1c58e1167244ea50f12a38d72860f1",
       "url": "https://json.schemastore.org/swcrc.json"
     },
     {
-      "digest": "bcafc39c3559d4fc2789142cec7746d0789f2a4e081b0fdccb2c0f1133053676",
+      "digest": "96376da5c5f401c2c6047abcc84ac7f0c95776d2a9d67451f334664d4ce1009d",
       "url": "https://json.schemastore.org/openweather.roadrisk.json"
     },
     {
-      "digest": "0a2793deecc64f22508dbc6d30355dfcd82427bf9f377f8d50485eb1dd0432ee",
+      "digest": "9a293ee49ab6469c755b2ecbf42607047b3a40e931e4020e49819a55a6c1a2eb",
       "url": "https://json.schemastore.org/openweather.current.json"
     },
     {
-      "digest": "10360d0a887c745a917209a2e7bce4006d1520a972371c3b694cb8f7b0a3de0e",
+      "digest": "22f5356a536de572d2cb611bcee6a643c90a657d68271975f9e47518a1f8cbe0",
       "url": "https://json.schemastore.org/jsone.json"
     },
     {
-      "digest": "b3710c2775608d80d060da24a18ae15a4b2744871f802da81f0b7e2d12482625",
+      "digest": "237facff19bb7518b33cbc0de694871464e52fcb1fc26702ffecc1047c9a8b3e",
       "url": "https://json.schemastore.org/taskfile.json"
     },
     {
-      "digest": "6067b555dc3ae3696a4013d4ed7edbac6de68cd1218be0edc881c23bc053888c",
+      "digest": "5b59d4926b857397511bc3d9df1439dba202be34d4bc2a294aec168f007c7362",
       "url": "https://json.schemastore.org/hammerkit.json"
     },
     {
-      "digest": "4c133f9576ee0bf60c1d99be4e760541ba28b64989e13512242340ca920e248f",
+      "digest": "f47b09cb06b5831a841b939dd96972b2ccdae4490842e3b187baa6e061f5622e",
       "url": "https://raw.githubusercontent.com/srl-labs/containerlab/main/schemas/clab.schema.json"
     },
     {
@@ -1846,7 +1910,7 @@
       "url": "https://raw.githubusercontent.com/dcermak/vscode-rke-cluster-config/main/schemas/cluster.json"
     },
     {
-      "digest": "679d616a15c903b061ef082ff93017d5dde21c4b5975f5499c6ccb3bc8e7bbb3",
+      "digest": "cfeda77bd67693476b3a91317b0965a4020e919904423ac6d3201e112b22b8a2",
       "url": "https://json.schemastore.org/liquibase-3.2.json"
     },
     {
@@ -1854,15 +1918,15 @@
       "url": "https://raw.githubusercontent.com/Cloud-Pipelines/component_spec_schema/stable/component_spec.json_schema.json"
     },
     {
-      "digest": "04805be7944772b8fac305ebef47516a1e5296d28abc0aa44f252d953172b394",
-      "url": "https://raw.githubusercontent.com/GoogleContainerTools/skaffold/master/docs/content/en/schemas/v2beta22.json"
+      "digest": "ebb89e67b3146ca973c35ba15978f60f0e0c36d34923aba8ab19c8cd664fbf7e",
+      "url": "https://raw.githubusercontent.com/GoogleContainerTools/skaffold/master/docs/content/en/schemas/v2beta28.json"
     },
     {
       "digest": "b367fec1bceb19b84e8fffeb9109f5725203f1b445e2d3cf80864a31e0c5ad40",
       "url": "https://raw.githubusercontent.com/DavidAnson/markdownlint/main/schema/markdownlint-config-schema.json"
     },
     {
-      "digest": "bd0dc9d475fdd2466a6b44dc5b3f2e21cfc08f04abd3acfed885e24435600220",
+      "digest": "a61af5c2bdb50624ba51237e87fdf1871c7964c033afc8401697d4ef7bc96c2b",
       "url": "https://raw.githubusercontent.com/saucelabs/saucectl/main/api/v1alpha/generated/saucectl.schema.json"
     },
     {
@@ -1870,7 +1934,7 @@
       "url": "https://raw.githubusercontent.com/fujaba/fulibWorkflows/main/schemas/fulibWorkflows.schema.json"
     },
     {
-      "digest": "0030b52b659dfa90ae2efcdd76e1dc5fd88378300ed406512e4c5acb6455df28",
+      "digest": "d0bcbaba688f3ab6e60562cebab10d14230779e64b2d470eea22cebb4485c3ed",
       "url": "https://raw.githubusercontent.com/woodpecker-ci/woodpecker/master/pipeline/schema/schema.json"
     },
     {
@@ -1882,7 +1946,7 @@
       "url": "https://noodl.s3.us-west-1.amazonaws.com/noodl.schema.json"
     },
     {
-      "digest": "26d106e15d188cb5aa23df5a20eee0f8787d74d930e1a2139ff463ec94b2d988",
+      "digest": "df8ce670dc99f3f87f2a47b1fd28feb35f3f5b1da1d93a381358cb79d9af5c5e",
       "url": "https://json.schemastore.org/mboats-config-0.2.json"
     },
     {
@@ -1890,11 +1954,11 @@
       "url": "https://download.stackhawk.com/hawk/jsonconfig/hawkconfig.json"
     },
     {
-      "digest": "c5764e44453240ae49cf4417eb2490f771d3fe38b6187e95f3b02ab840d20c25",
+      "digest": "12f4fa08263ffb6c4dd5c86a3bc9e9a1616feb2a5fc50b3f65b40c8307cf20c3",
       "url": "https://raw.githubusercontent.com/lalcebo/json-schema/master/serverless/reference.json"
     },
     {
-      "digest": "4b3aceefb7f129611b518c65715e04ed08d172deda7b46dc0740c00cde6998cc",
+      "digest": "819d236609881f4b1cc4351462c57212c6aa4e46e408c23ca8cbca96ea928afa",
       "url": "https://raw.githubusercontent.com/shopware/platform/trunk/config-schema.json"
     },
     {
@@ -1906,7 +1970,7 @@
       "url": "https://raw.githubusercontent.com/FriendsOfShopware/shopware-cli/main/shop/shopware-project-schema.json"
     },
     {
-      "digest": "8ea7a32f91ac8b04da0c65ba8ce8515df347de178936589709dd6a182691a164",
+      "digest": "ef9e25bcec22695c036d5f46133b71854d95a7ee727f080e8768c0a8b0d57e0f",
       "url": "https://json.schemastore.org/qodana-1.0.json"
     },
     {
@@ -1914,19 +1978,19 @@
       "url": "https://raw.githubusercontent.com/dotnet/tye/main/src/schema/tye-schema.json"
     },
     {
-      "digest": "873cfcf6c825eb1502aa54ddadeb5b038fbd5809b9c5eda9b7555a9b50afb376",
+      "digest": "1875d565cc0323b248c872cd0b33f3f350eae3e71fbd14190745169f853bdfb7",
       "url": "https://json.schemastore.org/unist.json"
     },
     {
-      "digest": "954e6530c802827620b876ff4222f592c97df5a061adff8229418e5749d57d3a",
+      "digest": "a7ac25a3d9eaca10ed63d605209452817a70087f1991c14f8e89e07c6a808f84",
       "url": "https://json.schemastore.org/hugo.json"
     },
     {
-      "digest": "d787b60dfadaf2a46ac9c58c63d46c0be7c9a9423d315a4d0a7268bf7b6f8fab",
+      "digest": "b7e5c156b5a5a344aae0a4a4e22bbcb31fd824c5446f4e9f60e8ff5fe181a93d",
       "url": "https://json.schemastore.org/cheatsheets.json"
     },
     {
-      "digest": "6daefb88f8e71d4bcaf5a700d9e5625af786bd45f198e03cb2155201266f09cb",
+      "digest": "ffd1d30e72975bd6f9ba688c95ac32f256925ef043f7ec1815e6804ef97bfb77",
       "url": "https://json.schemastore.org/deployed.json"
     },
     {
@@ -1938,7 +2002,7 @@
       "url": "https://raw.githubusercontent.com/Relativ-IT/Butane-Schemas/Release/Butane-Schema.json"
     },
     {
-      "digest": "ef098dad39cd57819d769b430fb9bb1d28dd6e0fbb73eaf95a8e1ad6adc45d5a",
+      "digest": "d4dda146e0ded4d299da7518ce8bcb22ff524b06e0870004e43f3520c45b1b76",
       "url": "https://www.updatecli.io/schema/latest/config.json"
     },
     {
@@ -1946,8 +2010,48 @@
       "url": "https://geojson.org/schema/GeoJSON.json"
     },
     {
-      "digest": "efa24c6d54b0e83456d9f51a9d4be506f01df9e39b06862619250980aaf7d589",
+      "digest": "737419c9be69e2400ac4194115a187af6504c67422e82258edba837276672538",
       "url": "https://json.schemastore.org/clang-format.json"
+    },
+    {
+      "digest": "7c1b54865106c0a6d9023ba2d71e1d2813f4e2110f936fb065e22d50637d1d31",
+      "url": "https://raw.githubusercontent.com/estuary/flow/master/flow.schema.json"
+    },
+    {
+      "digest": "62a7d4f319e709c79ebca0a5f7e31aa068d39a3272d607caf7d1cc28d70ee5d0",
+      "url": "https://raw.githubusercontent.com/EHfive/v2ray-jsonschema/main/v4-config.schema.json"
+    },
+    {
+      "digest": "928ae32e32179a2c0eb3ec0ebd4d0658c735efdd8127e9212f84336f66c59e10",
+      "url": "https://raw.githubusercontent.com/gherking/gherking/master/schema/gherking.schema.json"
+    },
+    {
+      "digest": "bebe3c5cdc638ef4e9acfb6b598a4ff9c99dd2d1da373d76355dc0d9fe031ad6",
+      "url": "https://public.dhe.ibm.com/ibmdl/export/pub/software/htp/cics/schemas/json/cicstags.json"
+    },
+    {
+      "digest": "3bb51acf0ad346434f2762c5d66268d51cd23b4d723d6c265515a5cfd6e4c01c",
+      "url": "https://public.dhe.ibm.com/ibmdl/export/pub/software/htp/cics/schemas/json/resourceoverrides.json"
+    },
+    {
+      "digest": "4b157e21e8b20da47c994f66fbc6db7d5b38a7914e915cce225c1b47a41d952d",
+      "url": "https://raw.githubusercontent.com/candrewlee14/webman/main/schema/pkg_schema.json"
+    },
+    {
+      "digest": "6db9ada68a9016e3e75e0d74578408a4634a06a70467bfd088cc042341b87367",
+      "url": "https://raw.githubusercontent.com/webhintio/hint/main/packages/hint/src/lib/config/config-schema.json"
+    },
+    {
+      "digest": "b76a6041eb290f3f77091243762c29a349bd8bcf344e6953d21a609880ff4e15",
+      "url": "https://json.schemastore.org/ava.json"
+    },
+    {
+      "digest": "3db3f92feae90800e505564b5dc8698f521a31141f553e549d6c154290e91596",
+      "url": "https://datahubproject.io/schemas/datahub_ingestion_schema.json"
+    },
+    {
+      "digest": "960a7659b4c4a5de8795e4a239be4e25b53b76b94a2e24f096890b140bc80242",
+      "url": "https://raw.githubusercontent.com/QualiTorque/torque-vs-code-extensions/master/client/schemas/blueprint-spec2-schema.json"
     }
   ]
 }

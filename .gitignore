@@ -8,4 +8,4 @@ dist/
 
 /src/pyschemata/schemastore/catalog.json
 /src/pyschemata/schemastore/index.json
-/src/pyschemata/schemastore/json/*.json
+/src/pyschemata/schemastore/jsondata/*.json
