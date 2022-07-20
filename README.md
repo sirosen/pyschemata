@@ -18,4 +18,4 @@ This project is very new and experimental. We'll see where it goes.
   are schema updates
 
 - Separation between build-time dependencies (e.g. `requests`) and runtime
-  dependencies (e.g. `pkg_resources`)
+  dependencies (e.g. `importlib_resources`)

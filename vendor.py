@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
-import collections
 import hashlib
 import json
 import pathlib
@@ -58,8 +57,7 @@ def iter_catalog() -> dict[str, t.Any]:
     with CATALOGFILE.open() as fp:
         catalog = json.load(fp)
 
-    for schema_info in catalog["schemas"]:
-        yield schema_info
+    yield from catalog["schemas"]
 
 
 def handle_schema_info(schema_info):
