@@ -4,4 +4,6 @@ vendor:
 
 .PHONY: lint
 lint:
-	hatch run lint:check
+	hatch run precommit:check
+	hatch run mypy:src
+	hatch run mypy:vendor

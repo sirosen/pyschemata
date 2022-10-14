@@ -1,0 +1,26 @@
+name: build
+on:
+  push:
+  pull_request:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v4
+        with:
+          python_version: "3.x"
+      - run: python -m pip install hatch
+      - run: make lint
+
+  try-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v4
+        with:
+          python_version: "3.x"
+      - run: python -m pip install hatch
+      - run: echo "Running hatch build to verify that it runs without errors"
+      - run: hatch build

@@ -32,19 +32,27 @@ sources = ["src"]
 ignore-vcs = true
 include = ["src/pyschemata/**/*.py", "src/pyschemata/**/*.json"]
 
-[tool.hatch.envs.lint]
+[tool.hatch.envs.precommit]
 description = "Lint with pre-commit"
 detached = true
 dependencies = ["pre-commit"]
-[tool.hatch.envs.lint.scripts]
+[tool.hatch.envs.precommit.scripts]
 check = "pre-commit run -a"
+
+[tool.hatch.envs.mypy]
+description = "Lint with mypy"
+skip-install = true
+dependencies = ["mypy", "types-requests"]
+[tool.hatch.envs.mypy.scripts]
+src = "mypy --show-error-codes src/"
+vendor = "mypy --show-error-codes vendor-schemastore.py"
 
 [tool.hatch.envs.vendor]
 description = "Vendor schemas from schemastore"
 detached = true
 dependencies = ["requests"]
 [tool.hatch.envs.vendor.scripts]
-schemastore = "python ./vendor-schemastore.py"
+schemastore = "python vendor-schemastore.py"
 
 [tool.mypy]
 strict = true

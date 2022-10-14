@@ -19,7 +19,7 @@ VENDOR_LOCKFILE = VENDOR_SCHEMASTORE_DIR / "vendor_lock.json"
 
 
 # TODO: also support `.versions` on the schema configs
-INDEX = {
+INDEX: dict[str, dict[str, t.Any]] = {
     "by_name": {},
     "by_url": {},
 }
@@ -54,17 +54,21 @@ def download_catalog(sess: requests.Session) -> str:
     return digest
 
 
-def iter_catalog() -> dict[str, t.Any]:
+def iter_catalog() -> t.Iterator[dict[str, t.Any]]:
     with CATALOGFILE.open() as fp:
         catalog = json.load(fp)
 
     yield from catalog["schemas"]
 
 
-def handle_schema_info(sess: requests.Session, schema_info):
+def handle_schema_info(sess: requests.Session, schema_info: dict[str, str]) -> None:
     schema_id = get_schema_id(schema_info)
     schema_url = schema_info["url"]
-    digest = download_schema(sess, schema_id, schema_url)
+    try:
+        digest = download_schema(sess, schema_id, schema_url)
+    except requests.RequestException:
+        print(f"\033[1;31mWARNING: failed to download {schema_id}\033[0m")
+        return
 
     # add to the index
     assert schema_url not in INDEX["by_url"]
@@ -74,7 +78,10 @@ def handle_schema_info(sess: requests.Session, schema_info):
         INDEX["by_name"][schema_info["name"]] = schema_id
 
     # add to the lockfile data
-    LOCKDATA["schemas"].append({"url": schema_url, "digest": digest})
+    # FIXME: use a TypedDict instead of an ignore
+    LOCKDATA["schemas"].append(  # type: ignore[union-attr]
+        {"url": schema_url, "digest": digest}
+    )
 
 
 def update_catalog_schemas(sess: requests.Session) -> None:
