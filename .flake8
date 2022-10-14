@@ -1,0 +1,4 @@
+[flake8]  # black-compatible
+exclude = .git,.tox,__pycache__,.eggs,dist,.venv*,build
+max-line-length = 90
+ignore = W503,W504,E203,

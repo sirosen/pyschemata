@@ -8,6 +8,7 @@ import sys
 import typing as t
 
 import requests
+import requests.adapters
 
 PKG_PATH = pathlib.Path.cwd() / "src" / "pyschemata"
 VENDOR_SCHEMASTORE_DIR = PKG_PATH / "schemastore"
@@ -36,17 +37,17 @@ def get_schema_id(schema_info: dict[str, t.Any]) -> str:
     return hashlib.sha256(schema_url.encode()).hexdigest()[:12]
 
 
-def download_schema(schema_id: str, schema_url: str) -> str:
+def download_schema(sess: requests.Session, schema_id: str, schema_url: str) -> str:
     print(f"downloading schema: {schema_id} ({schema_url})")
-    res = requests.get(schema_url)
+    res = sess.get(schema_url)
     digest = hashlib.sha256(res.content).hexdigest()
     (VENDOR_SCHEMASTORE_JSON_DIR / f"{schema_id}.json").write_bytes(res.content)
     return digest
 
 
-def download_catalog() -> str:
+def download_catalog(sess: requests.Session) -> str:
     print("udpating catalog.json")
-    res = requests.get("https://www.schemastore.org/api/json/catalog.json")
+    res = sess.get("https://www.schemastore.org/api/json/catalog.json")
     digest = hashlib.sha256(res.content).hexdigest()
     CATALOGFILE.write_bytes(res.content)
     print(f"updated catalog.json: {digest}")
@@ -60,10 +61,10 @@ def iter_catalog() -> dict[str, t.Any]:
     yield from catalog["schemas"]
 
 
-def handle_schema_info(schema_info):
+def handle_schema_info(sess: requests.Session, schema_info):
     schema_id = get_schema_id(schema_info)
     schema_url = schema_info["url"]
-    digest = download_schema(schema_id, schema_url)
+    digest = download_schema(sess, schema_id, schema_url)
 
     # add to the index
     assert schema_url not in INDEX["by_url"]
@@ -76,9 +77,9 @@ def handle_schema_info(schema_info):
     LOCKDATA["schemas"].append({"url": schema_url, "digest": digest})
 
 
-def update_catalog_schemas() -> None:
+def update_catalog_schemas(sess: requests.Session) -> None:
     for info in iter_catalog():
-        handle_schema_info(info)
+        handle_schema_info(sess, info)
 
     with INDEXFILE.open("w") as fp:
         json.dump(INDEX, fp, sort_keys=True, indent=2, separators=(",", ": "))
@@ -105,9 +106,15 @@ def update_vendor_lock() -> bool:
 
 
 def main() -> int:
-    catalog_digest = download_catalog()
+    adapter = requests.adapters.HTTPAdapter(
+        max_retries=requests.adapters.Retry(total=5, backoff_factor=0.25)
+    )
+    sess = requests.Session()
+    sess.mount("https://", adapter)
+
+    catalog_digest = download_catalog(sess)
     LOCKDATA["catalog"] = catalog_digest
-    update_catalog_schemas()
+    update_catalog_schemas(sess)
     if update_vendor_lock():
         return 0
     return 1
