@@ -45,18 +45,18 @@ skip-install = true
 dependencies = ["mypy", "types-requests"]
 [tool.hatch.envs.mypy.scripts]
 src = "mypy --show-error-codes src/"
-vendor = "mypy --show-error-codes vendor-schemastore.py"
+scripts = "mypy --show-error-codes scripts/"
 
 [tool.hatch.envs.vendor]
 description = "Vendor schemas from schemastore"
 detached = true
 dependencies = ["requests"]
 [tool.hatch.envs.vendor.scripts]
-schemastore = "python vendor-schemastore.py"
+schemastore = "python scripts/vendor-schemastore.py"
 
 [tool.hatch.envs.default]
 dependencies = ["packaging"]
-scripts.bumpv = "python bump_version.py"
+scripts.bumpv = "python scripts/bump-version.py"
 
 [tool.mypy]
 strict = true

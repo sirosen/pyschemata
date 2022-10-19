@@ -122,8 +122,13 @@ def main() -> int:
     catalog_digest = download_catalog(sess)
     LOCKDATA["catalog"] = catalog_digest
     update_catalog_schemas(sess)
+
+    print("download and lockdata computation complete")
+    print("update vendor lockfile")
     if update_vendor_lock():
+        print("vendor lock updated (success)")
         return 0
+    print("no vendor lock update needed (fail)")
     return 1
 
 

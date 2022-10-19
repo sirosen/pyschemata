@@ -16,7 +16,7 @@ def get_version() -> Version:
     return Version(raw)
 
 
-def get_new_version():
+def get_new_version() -> str:
     old = get_version()
     old_year, old_month, old_day = old.major, old.minor, old.micro
 
@@ -28,7 +28,7 @@ def get_new_version():
     return today_v_str
 
 
-def main():
+def main() -> None:
     print("updating...")
     subprocess.run(["hatch", "version", get_new_version()])
     print("done")

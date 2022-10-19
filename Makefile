@@ -6,7 +6,7 @@ vendor:
 lint:
 	hatch run precommit:check
 	hatch run mypy:src
-	hatch run mypy:vendor
+	hatch run mypy:scripts
 
 .PHONY: bumpversion
 bumpversion:
