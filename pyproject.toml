@@ -54,6 +54,10 @@ dependencies = ["requests"]
 [tool.hatch.envs.vendor.scripts]
 schemastore = "python vendor-schemastore.py"
 
+[tool.hatch.envs.default]
+dependencies = ["packaging"]
+scripts.bumpv = "python bump_version.py"
+
 [tool.mypy]
 strict = true
 ignore_missing_imports = true
