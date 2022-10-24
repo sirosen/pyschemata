@@ -6,9 +6,9 @@ from packaging.version import Version
 
 def bump_pre(v: Version) -> str:
     assert v.pre
-    assert v.pre[0] == "a"
+    assert v.pre[0] == "b"
     pre_num = v.pre[1] + 1
-    return f"{v.major}.{v.minor}.{v.micro}{v.pre[0]}{pre_num}"
+    return f"{v.major}.{v.minor}.{v.micro}b{pre_num}"
 
 
 def get_version() -> Version:
