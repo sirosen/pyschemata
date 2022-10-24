@@ -1,5 +1,6 @@
 .PHONY: vendor
 vendor:
+	rm src/pyschemata/schemastore/jsondata/*.json
 	hatch run vendor:schemastore
 
 .PHONY: lint
