@@ -1,7 +1,7 @@
 repos:
 # dogfood in the future?
 - repo: https://github.com/python-jsonschema/check-jsonschema
-  rev: 0.19.2
+  rev: 0.20.0
   hooks:
     - id: check-github-workflows
 - repo: https://github.com/pre-commit/pre-commit-hooks.git
